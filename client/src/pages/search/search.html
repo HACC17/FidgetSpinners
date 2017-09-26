@@ -1,0 +1,43 @@
+<ion-header>
+  <ion-navbar>
+      <ion-title>
+        Search
+      </ion-title>
+    <ion-buttons end>
+    <button style="background: transparent;" icon-only ion-button menuToggle>
+      <ion-icon style="color: white;" name="menu"></ion-icon>
+    </button>
+  </ion-buttons>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding id="page8">
+
+  <ion-list no-lines id="section-list">
+    <ion-grid>
+      <ion-row>
+            <ion-searchbar placeholder={{query}} [showCancelButton]="shouldShowCancel"
+                     (ionCancel)="onCancel($event)" (ionChange)="goToSearch($event)"
+                     [(ngModel)]="query"></ion-searchbar>
+      </ion-row>
+      <ion-item *ngFor="let sec of sections;let idx=index;" color="none" id="section-list-item26"
+                attr.id={{sec._id}} (tap)="openSection(sec, sec._id,idx)">
+        <ion-row>
+          <ion-col col-11 class="section_text">
+            &#167;{{sec._source.chapter}}-{{sec._source.section}}&nbsp;{{sec._source.section_text}}
+          </ion-col>
+          <ion-col col-1>
+            <ion-icon name="ios-bookmark-outline" *ngIf="!sec.bookmarked"></ion-icon>
+            <ion-icon name="ios-bookmark" style="color:#454545;" *ngIf="sec.bookmarked"></ion-icon>
+          </ion-col>
+        </ion-row>
+      </ion-item>
+    </ion-grid>
+  </ion-list>
+
+  <ion-infinite-scroll (ionInfinite)="loadMore($event)">
+    <ion-infinite-scroll-content>
+    </ion-infinite-scroll-content>
+  </ion-infinite-scroll>
+
+</ion-content>

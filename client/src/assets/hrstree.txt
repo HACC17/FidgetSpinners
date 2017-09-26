@@ -1,0 +1,4376 @@
+[
+    {
+        "name": "DIVISION 1. GOVERNMENT",
+        "titles": [
+            {
+                "chapters": [
+                    {
+                        "number": "1",
+                        "text": "Common Law; Construction of Laws"
+                    },
+                    {
+                        "number": "1B",
+                        "text": "Designation of Rural Areas for Federal Programs"
+                    },
+                    {
+                        "number": "2",
+                        "text": "Statute Revision and Publication--Repealed"
+                    },
+                    {
+                        "number": "3",
+                        "text": "Uniformity of Legislation"
+                    },
+                    {
+                        "number": "4",
+                        "text": "Boundaries"
+                    },
+                    {
+                        "number": "4E",
+                        "text": "State Board on Geographic Names"
+                    },
+                    {
+                        "number": "5",
+                        "text": "Emblems and Symbols"
+                    },
+                    {
+                        "number": "6",
+                        "text": "Memorials--Repealed"
+                    },
+                    {
+                        "number": "6D",
+                        "text": "Protection of Caves"
+                    },
+                    {
+                        "number": "6E",
+                        "text": "Historic Preservation"
+                    },
+                    {
+                        "number": "6F",
+                        "text": "Judiciary History Center"
+                    },
+                    {
+                        "number": "6K",
+                        "text": "Kaho\u0091olawe Island Reserve"
+                    },
+                    {
+                        "number": "7",
+                        "text": "Miscellaneous Rights of the People"
+                    },
+                    {
+                        "number": "8",
+                        "text": "Holidays and Periods of Recognition and Observance"
+                    },
+                    {
+                        "number": "9",
+                        "text": "Foundation on Culture and the Arts"
+                    },
+                    {
+                        "number": "9C",
+                        "text": "Ethnic Studies--Repealed"
+                    },
+                    {
+                        "number": "10",
+                        "text": "Office of Hawaiian Affairs"
+                    },
+                    {
+                        "number": "10H",
+                        "text": "Native Hawaiian Recognition"
+                    }
+                ],
+                "name": "TITLE 1. GENERAL PROVISIONS"
+            },
+            {
+                "chapters": [
+                    {
+                        "number": "11",
+                        "text": "Elections, Generally"
+                    },
+                    {
+                        "number": "12",
+                        "text": "Primary Elections"
+                    },
+                    {
+                        "number": "13",
+                        "text": "Board of Education"
+                    },
+                    {
+                        "number": "13D",
+                        "text": "Board of Trustees, Office of Hawaiian Affairs"
+                    },
+                    {
+                        "number": "14",
+                        "text": "Presidential Elections"
+                    },
+                    {
+                        "number": "14D",
+                        "text": "Agreement among the States to Elect the President by National Popular Vote"
+                    },
+                    {
+                        "number": "15",
+                        "text": "Absentee Voting"
+                    },
+                    {
+                        "number": "15A",
+                        "text": "Voting by Mailing Ballot--Repealed"
+                    },
+                    {
+                        "number": "15D",
+                        "text": "Uniform Military and Overseas Voters Act"
+                    },
+                    {
+                        "number": "16",
+                        "text": "Voting Systems"
+                    },
+                    {
+                        "number": "16A",
+                        "text": "Uniform Act for Voting by New Residents in Presidential Elections--Repealed"
+                    },
+                    {
+                        "number": "17",
+                        "text": "Vacancies"
+                    },
+                    {
+                        "number": "18",
+                        "text": "Districting--Repealed"
+                    },
+                    {
+                        "number": "19",
+                        "text": "Election Offense"
+                    }
+                ],
+                "name": "TITLE 2. ELECTIONS"
+            },
+            {
+                "chapters": [
+                    {
+                        "number": "21",
+                        "text": "Legislative Hearings and Procedure"
+                    },
+                    {
+                        "number": "21D",
+                        "text": "Access/Legislative Information Service"
+                    },
+                    {
+                        "number": "21E",
+                        "text": "Joint Legislative Management Committee"
+                    },
+                    {
+                        "number": "21F",
+                        "text": "Legislative Fiscal and Budget Analysis"
+                    },
+                    {
+                        "number": "21G",
+                        "text": "Public Access"
+                    },
+                    {
+                        "number": "22",
+                        "text": "Presiding Officers, Clerks, and Staff"
+                    },
+                    {
+                        "number": "23",
+                        "text": "Auditor"
+                    },
+                    {
+                        "number": "23G",
+                        "text": "Office of the Legislative Reference Bureau"
+                    },
+                    {
+                        "number": "24",
+                        "text": "Allowance and Salary for Legislators"
+                    },
+                    {
+                        "number": "25",
+                        "text": "Reapportionment"
+                    }
+                ],
+                "name": "TITLE 3. LEGISLATURE"
+            },
+            {
+                "chapters": [
+                    {
+                        "number": "26",
+                        "text": "Executive and Administrative Departments"
+                    },
+                    {
+                        "number": "26H",
+                        "text": "Hawaii Regulatory Licensing Reform Act"
+                    },
+                    {
+                        "number": "27",
+                        "text": "State Functions and Responsibilities"
+                    },
+                    {
+                        "number": "27C",
+                        "text": "State Information Service"
+                    },
+                    {
+                        "number": "27G",
+                        "text": "Access Hawaii Committee"
+                    },
+                    {
+                        "number": "28",
+                        "text": "Attorney General"
+                    },
+                    {
+                        "number": "29",
+                        "text": "Federal Aid"
+                    },
+                    {
+                        "number": "30",
+                        "text": "Gubernatorial Transition"
+                    }
+                ],
+                "name": "TITLE 4. STATE ORGANIZATION AND ADMINISTRATION, GENERALLY"
+            },
+            {
+                "chapters": [
+                    {
+                        "number": "36",
+                        "text": "Management of State Funds"
+                    },
+                    {
+                        "number": "37",
+                        "text": "Budget"
+                    },
+                    {
+                        "number": "37C",
+                        "text": "State Debt"
+                    },
+                    {
+                        "number": "37D",
+                        "text": "Management of Financing Agreements"
+                    },
+                    {
+                        "number": "38",
+                        "text": "Deposits of Public Funds"
+                    },
+                    {
+                        "number": "39",
+                        "text": "State Bonds"
+                    },
+                    {
+                        "number": "39A",
+                        "text": "Special Purpose Revenue Bonds"
+                    },
+                    {
+                        "number": "39B",
+                        "text": "Allocation of Private Activity Bonds"
+                    },
+                    {
+                        "number": "39C",
+                        "text": "Allocation of State Bond Ceiling"
+                    },
+                    {
+                        "number": "40",
+                        "text": "Audit and Accounting"
+                    },
+                    {
+                        "number": "41",
+                        "text": "State Insurance Administration--Repealed"
+                    },
+                    {
+                        "number": "41D",
+                        "text": "State Risk Management and Insurance Administration"
+                    },
+                    {
+                        "number": "42",
+                        "text": "Grants, Subsidies, and Purchases of Service--Repealed"
+                    },
+                    {
+                        "number": "42D",
+                        "text": "Grants, Subsidies, and Purchases of Service--Repealed"
+                    },
+                    {
+                        "number": "42F",
+                        "text": "Grants"
+                    }
+                ],
+                "name": "TITLE 5. STATE FINANCIAL ADMINISTRATION"
+            },
+            {
+                "chapters": [
+                    {
+                        "number": "46",
+                        "text": "General Provisions"
+                    },
+                    {
+                        "number": "47",
+                        "text": "County Bonds"
+                    },
+                    {
+                        "number": "47C",
+                        "text": "Indebtedness of the Counties, Exclusions from the Funded Debt, and Certification Thereof"
+                    },
+                    {
+                        "number": "48",
+                        "text": "Economic Development Bonds"
+                    },
+                    {
+                        "number": "48E",
+                        "text": "Political Subdivision Pollution Control Special Purpose Revenue Bonds"
+                    },
+                    {
+                        "number": "49",
+                        "text": "Revenue Bonds"
+                    },
+                    {
+                        "number": "50",
+                        "text": "Charter Commissions"
+                    },
+                    {
+                        "number": "51",
+                        "text": "Mass Transit"
+                    },
+                    {
+                        "number": "51D",
+                        "text": "Transit Capital Development Fund--Repealed"
+                    },
+                    {
+                        "number": "52",
+                        "text": "Police Departments--Repealed"
+                    },
+                    {
+                        "number": "52D",
+                        "text": "Police Departments"
+                    },
+                    {
+                        "number": "53",
+                        "text": "Urban Renewal Law"
+                    },
+                    {
+                        "number": "54",
+                        "text": "Water Systems"
+                    },
+                    {
+                        "number": "56",
+                        "text": "Public Off-Street Parking Facilities"
+                    },
+                    {
+                        "number": "57",
+                        "text": "Urban and Regional Design--Repealed"
+                    },
+                    {
+                        "number": "58",
+                        "text": "Exceptional Trees"
+                    },
+                    {
+                        "number": "61",
+                        "text": "General Organization and Powers--Repealed"
+                    },
+                    {
+                        "number": "62",
+                        "text": "County Officers--Repealed"
+                    },
+                    {
+                        "number": "63",
+                        "text": "Election of Officers--Repealed"
+                    },
+                    {
+                        "number": "64",
+                        "text": "Provisions Specific for Hawaii--Repealed"
+                    },
+                    {
+                        "number": "65",
+                        "text": "Provisions Specific for Kauai--Repealed"
+                    },
+                    {
+                        "number": "66",
+                        "text": "Provisions Specific for Maui--Repealed"
+                    },
+                    {
+                        "number": "67",
+                        "text": "Improvement by Assessment--Repealed"
+                    },
+                    {
+                        "number": "70",
+                        "text": "General Provisions Relating to Honolulu--Repealed"
+                    },
+                    {
+                        "number": "71",
+                        "text": "Artesian Well Control\u0097Repealed"
+                    }
+                ],
+                "name": "TITLE 6. COUNTY ORGANIZATION AND ADMINISTRATION"
+            },
+            {
+                "chapters": [
+                    {
+                        "number": "76",
+                        "text": "Civil Service Law"
+                    },
+                    {
+                        "number": "77",
+                        "text": "Compensation Law--Repealed"
+                    },
+                    {
+                        "number": "78",
+                        "text": "Public Service"
+                    },
+                    {
+                        "number": "79",
+                        "text": "Leaves of Absence--Repealed"
+                    },
+                    {
+                        "number": "80",
+                        "text": "Hours of Work--Repealed"
+                    },
+                    {
+                        "number": "81",
+                        "text": "In-Service Training Programs--Repealed"
+                    },
+                    {
+                        "number": "82",
+                        "text": "Incentive and Service Awards--Repealed"
+                    },
+                    {
+                        "number": "83",
+                        "text": "Temporary Intergovernmental Assignment of Public Employees--Repealed"
+                    },
+                    {
+                        "number": "84",
+                        "text": "Standards of Conduct"
+                    },
+                    {
+                        "number": "85",
+                        "text": "Loyalty"
+                    },
+                    {
+                        "number": "86",
+                        "text": "Strikes Against the Government--Repealed"
+                    },
+                    {
+                        "number": "87",
+                        "text": "Public Employees Health Fund--Repealed"
+                    },
+                    {
+                        "number": "87A",
+                        "text": "Hawaii Employer-Union Health Benefits Trust Fund"
+                    },
+                    {
+                        "number": "87D",
+                        "text": "Voluntary Employees' Beneficiary Association Trusts"
+                    },
+                    {
+                        "number": "88",
+                        "text": "Pension and Retirement Systems"
+                    },
+                    {
+                        "number": "88D",
+                        "text": "Tax Deferred Compensation Plans for Public Employees"
+                    },
+                    {
+                        "number": "88E",
+                        "text": "Deferred Compensation Plan"
+                    },
+                    {
+                        "number": "88F",
+                        "text": "Deferred Compensation Retirement Plan for Part-Time, Temporary, and Seasonal or Casual Employees"
+                    },
+                    {
+                        "number": "89",
+                        "text": "Collective Bargaining in Public Employment"
+                    },
+                    {
+                        "number": "89A",
+                        "text": "Office of Collective Bargaining and Managed Competition"
+                    },
+                    {
+                        "number": "89C",
+                        "text": "Public Officers and Employees Excluded from Collective Bargaining"
+                    },
+                    {
+                        "number": "90",
+                        "text": "State Policy Concerning the Utilization of Volunteer Services"
+                    },
+                    {
+                        "number": "90D",
+                        "text": "Commission for National and Community Service"
+                    }
+                ],
+                "name": "TITLE 7. PUBLIC OFFICERS AND EMPLOYEES"
+            },
+            {
+                "chapters": [
+                    {
+                        "number": "91",
+                        "text": "Administrative Procedure"
+                    },
+                    {
+                        "number": "92",
+                        "text": "Public Agency Meetings and Records"
+                    },
+                    {
+                        "number": "92E",
+                        "text": "Fair Information Practice (Confidentiality of Personal Record)--Repealed"
+                    },
+                    {
+                        "number": "92F",
+                        "text": "Uniform Information Practices Act (Modified)"
+                    },
+                    {
+                        "number": "93",
+                        "text": "Government Publications"
+                    },
+                    {
+                        "number": "94",
+                        "text": "Public Archives; Disposal of Records"
+                    },
+                    {
+                        "number": "95",
+                        "text": "Destroying or Defacing Official Notices--Repealed"
+                    },
+                    {
+                        "number": "96",
+                        "text": "The Ombudsman"
+                    },
+                    {
+                        "number": "97",
+                        "text": "Lobbyists"
+                    },
+                    {
+                        "number": "98",
+                        "text": "Uniform Electronic Legal Material Act"
+                    }
+                ],
+                "name": "TITLE 8. PUBLIC PROCEEDINGS AND RECORDS"
+            },
+            {
+                "chapters": [
+                    {
+                        "number": "101",
+                        "text": "Eminent Domain"
+                    },
+                    {
+                        "number": "102",
+                        "text": "Concessions on Public Property"
+                    },
+                    {
+                        "number": "103",
+                        "text": "Expenditure of Public Money and Public Contracts"
+                    },
+                    {
+                        "number": "103B",
+                        "text": "Employment of State Residents on Construction Procurement Contracts"
+                    },
+                    {
+                        "number": "103D",
+                        "text": "Hawaii Public Procurement Code"
+                    },
+                    {
+                        "number": "103F",
+                        "text": "Purchases of Health and Human Services"
+                    },
+                    {
+                        "number": "104",
+                        "text": "Wages and Hours of Employees on Public Works"
+                    },
+                    {
+                        "number": "105",
+                        "text": "Government Motor Vehicles"
+                    },
+                    {
+                        "number": "106",
+                        "text": "Inventory, Accounting, and Disposal of Government Assets--Repealed"
+                    },
+                    {
+                        "number": "107",
+                        "text": "Public Improvements"
+                    },
+                    {
+                        "number": "107D",
+                        "text": "State Facility Renovation Partnership Program"
+                    },
+                    {
+                        "number": "109",
+                        "text": "Stadiums and Recreational Facilities"
+                    },
+                    {
+                        "number": "110",
+                        "text": "State-Owned Cemeteries"
+                    },
+                    {
+                        "number": "111",
+                        "text": "Assistance to Displaced Persons"
+                    },
+                    {
+                        "number": "113",
+                        "text": "Land Acquisition Policies for Federally Assisted Programs"
+                    },
+                    {
+                        "number": "115",
+                        "text": "Public Access to Coastal and Inland Recreational Areas"
+                    }
+                ],
+                "name": "TITLE 9. PUBLIC PROPERTY, PURCHASING AND CONTRACTING"
+            },
+            {
+                "chapters": [
+                    {
+                        "number": "121",
+                        "text": "Militia; National Guard"
+                    },
+                    {
+                        "number": "122",
+                        "text": "Hawaii State Guard--Repealed"
+                    },
+                    {
+                        "number": "122A",
+                        "text": "Hawaii State Defense Force"
+                    },
+                    {
+                        "number": "123",
+                        "text": "Naval Militia"
+                    },
+                    {
+                        "number": "124",
+                        "text": "Military Courts-Martial--Repealed"
+                    },
+                    {
+                        "number": "124A",
+                        "text": "Hawaii Code of Military Justice"
+                    },
+                    {
+                        "number": "125",
+                        "text": "Procurement and Control of Distribution of Necessary Commodities"
+                    },
+                    {
+                        "number": "125C",
+                        "text": "Procurement, Control, Distribution and Sale of Petroleum Products"
+                    },
+                    {
+                        "number": "126",
+                        "text": "Federal Flood Insurance"
+                    },
+                    {
+                        "number": "127",
+                        "text": "Disaster Relief--Repealed"
+                    },
+                    {
+                        "number": "127A",
+                        "text": "Emergency Management"
+                    },
+                    {
+                        "number": "128",
+                        "text": "Civil Defense and Emergency Act--Repealed"
+                    },
+                    {
+                        "number": "128A",
+                        "text": "Homeland Security"
+                    },
+                    {
+                        "number": "128B",
+                        "text": "Cybersecurity"
+                    },
+                    {
+                        "number": "128D",
+                        "text": "Environmental Response Law"
+                    },
+                    {
+                        "number": "128E",
+                        "text": "Hawaii Emergency Planning and Community Right-to-Know Act"
+                    },
+                    {
+                        "number": "128F",
+                        "text": "Emergency Management Assistance Compact"
+                    },
+                    {
+                        "number": "129",
+                        "text": "Blackouts and Illumination Control--Repealed"
+                    },
+                    {
+                        "number": "130",
+                        "text": "Emergency Seat of Government"
+                    },
+                    {
+                        "number": "131",
+                        "text": "Commission on Subversive Activities--Repealed"
+                    },
+                    {
+                        "number": "132",
+                        "text": "Fire Protection"
+                    },
+                    {
+                        "number": "132C",
+                        "text": "Reduced Ignition Propensity Cigarettes Law"
+                    },
+                    {
+                        "number": "132D",
+                        "text": "Fireworks"
+                    },
+                    {
+                        "number": "133",
+                        "text": "Combustibles--Repealed"
+                    },
+                    {
+                        "number": "134",
+                        "text": "Firearms, Ammunition and Dangerous Weapons"
+                    },
+                    {
+                        "number": "135",
+                        "text": "Emergency Use of Private Real Property"
+                    },
+                    {
+                        "number": "136",
+                        "text": "Laser Pointing Devices"
+                    },
+                    {
+                        "number": "137",
+                        "text": "Search and Rescue Reimbursement Act"
+                    },
+                    {
+                        "number": "138",
+                        "text": "Enhanced 911 Services for Mobile Phones"
+                    }
+                ],
+                "name": "TITLE 10. PUBLIC SAFETY AND INTERNAL SECURITY"
+            },
+            {
+                "chapters": [
+                    {
+                        "number": "141",
+                        "text": "Department of Agriculture"
+                    },
+                    {
+                        "number": "142",
+                        "text": "Animals, Brands, and Fences"
+                    },
+                    {
+                        "number": "143",
+                        "text": "Animals: Licenses and Regulations"
+                    },
+                    {
+                        "number": "144",
+                        "text": "Feed"
+                    },
+                    {
+                        "number": "145",
+                        "text": "Regulation of Farm Produce"
+                    },
+                    {
+                        "number": "145D",
+                        "text": "Donation of Food"
+                    },
+                    {
+                        "number": "146",
+                        "text": "Slaughtering Operations and Slaughterhouses"
+                    },
+                    {
+                        "number": "147",
+                        "text": "Grades and Standards"
+                    },
+                    {
+                        "number": "148",
+                        "text": "Advertising and Marketing"
+                    },
+                    {
+                        "number": "148D",
+                        "text": "Aquaculture Advisory Council--Repealed"
+                    },
+                    {
+                        "number": "149",
+                        "text": "Economic Poisons--Repealed"
+                    },
+                    {
+                        "number": "149A",
+                        "text": "Hawaii Pesticides Law"
+                    },
+                    {
+                        "number": "150",
+                        "text": "Seeds"
+                    },
+                    {
+                        "number": "150A",
+                        "text": "Plant and Non-Domestic Animal Quarantine and Microorganism Import"
+                    },
+                    {
+                        "number": "151",
+                        "text": "Weed Control--Repealed"
+                    },
+                    {
+                        "number": "152",
+                        "text": "Noxious Weed Control"
+                    },
+                    {
+                        "number": "153",
+                        "text": "Agricultural Products Program--Repealed"
+                    },
+                    {
+                        "number": "154",
+                        "text": "Fruit and Nut Orchards--Repealed"
+                    },
+                    {
+                        "number": "155",
+                        "text": "Agricultural Loans"
+                    },
+                    {
+                        "number": "155D",
+                        "text": "Livestock Revitalization Program"
+                    },
+                    {
+                        "number": "156",
+                        "text": "Farm Advisory Board--Repealed"
+                    },
+                    {
+                        "number": "157",
+                        "text": "Milk Control Act"
+                    },
+                    {
+                        "number": "159",
+                        "text": "Hawaii Meat Inspection Act"
+                    },
+                    {
+                        "number": "161",
+                        "text": "Poultry Inspection"
+                    },
+                    {
+                        "number": "163",
+                        "text": "Marketing Orders and Agreements--Repealed"
+                    },
+                    {
+                        "number": "163D",
+                        "text": "Agribusiness Development Corporation"
+                    },
+                    {
+                        "number": "164",
+                        "text": "Agriculture Coordinating Committee--Repealed"
+                    },
+                    {
+                        "number": "165",
+                        "text": "Hawaii Right to Farm Act"
+                    },
+                    {
+                        "number": "166",
+                        "text": "Agricultural Parks"
+                    },
+                    {
+                        "number": "166E",
+                        "text": "Non-Agricultural Park Lands"
+                    },
+                    {
+                        "number": "167",
+                        "text": "Irrigation Water Development"
+                    },
+                    {
+                        "number": "168",
+                        "text": "Irrigation and Water Utilization Projects"
+                    },
+                    {
+                        "number": "169",
+                        "text": "Private Agricultural Parks"
+                    }
+                ],
+                "name": "TITLE 11. AGRICULTURE AND ANIMALS"
+            },
+            {
+                "chapters": [
+                    {
+                        "number": "171",
+                        "text": "Public Lands, Management and Disposition of"
+                    },
+                    {
+                        "number": "171C",
+                        "text": "Public Land Development Corporation--Repealed"
+                    },
+                    {
+                        "number": "172",
+                        "text": "Land Commission Awards; Surveys"
+                    },
+                    {
+                        "number": "173",
+                        "text": "Reclamation of Lands"
+                    },
+                    {
+                        "number": "173A",
+                        "text": "Acquisition of Resource Value Lands"
+                    },
+                    {
+                        "number": "174",
+                        "text": "Water and Land Development"
+                    },
+                    {
+                        "number": "174C",
+                        "text": "State Water Code"
+                    },
+                    {
+                        "number": "175",
+                        "text": "Molokai Irrigation and Water Utilization Project-- Repealed"
+                    },
+                    {
+                        "number": "176",
+                        "text": "Water Resources--Repealed"
+                    },
+                    {
+                        "number": "176D",
+                        "text": "Protection of Instream Uses of Water--Repealed"
+                    },
+                    {
+                        "number": "177",
+                        "text": "Ground-Water Use--Repealed"
+                    },
+                    {
+                        "number": "178",
+                        "text": "Wells, Generally--Repealed"
+                    },
+                    {
+                        "number": "179",
+                        "text": "Flood Control and Flood Water Conservation"
+                    },
+                    {
+                        "number": "179D",
+                        "text": "Dams and Reservoirs"
+                    },
+                    {
+                        "number": "180",
+                        "text": "Soil and Water Conservation Districts"
+                    },
+                    {
+                        "number": "180C",
+                        "text": "Soil Erosion and Sediment Control"
+                    },
+                    {
+                        "number": "181",
+                        "text": "Strip Mining"
+                    },
+                    {
+                        "number": "182",
+                        "text": "Reservation and Disposition of Government Mineral Rights"
+                    },
+                    {
+                        "number": "183",
+                        "text": "Forest Reserves, Water Development, Zoning"
+                    },
+                    {
+                        "number": "183B",
+                        "text": "Hawaiian Fishponds"
+                    },
+                    {
+                        "number": "183C",
+                        "text": "Conservation District"
+                    },
+                    {
+                        "number": "183D",
+                        "text": "Wildlife"
+                    },
+                    {
+                        "number": "184",
+                        "text": "State Parks and Recreation Areas"
+                    },
+                    {
+                        "number": "185",
+                        "text": "Land Fire Protection Law"
+                    },
+                    {
+                        "number": "186",
+                        "text": "Tree Farms"
+                    },
+                    {
+                        "number": "187",
+                        "text": "General Provisions Relating to Aquatic Resources and Wildlife--Repealed"
+                    },
+                    {
+                        "number": "187A",
+                        "text": "Aquatic Resources"
+                    },
+                    {
+                        "number": "188",
+                        "text": "Fishing Rights and Regulations"
+                    },
+                    {
+                        "number": "188E",
+                        "text": "Hawaii Fisheries Coordinating Council--Repealed"
+                    },
+                    {
+                        "number": "188F",
+                        "text": "West Hawaii Regional Fishery Management Area"
+                    },
+                    {
+                        "number": "189",
+                        "text": "Commercial Fishing"
+                    },
+                    {
+                        "number": "189G",
+                        "text": "Aquaculture Advisory Council--Repealed"
+                    },
+                    {
+                        "number": "190",
+                        "text": "Marine Life Conservation Program"
+                    },
+                    {
+                        "number": "190D",
+                        "text": "Ocean and Submerged Lands Leasing"
+                    },
+                    {
+                        "number": "191",
+                        "text": "Birds and Mammals--Repealed"
+                    },
+                    {
+                        "number": "192",
+                        "text": "Shooting Preserves and Game Bird Farming--Repealed"
+                    },
+                    {
+                        "number": "193",
+                        "text": "Conservation: Employment Programs"
+                    },
+                    {
+                        "number": "194",
+                        "text": "Invasive Species Council"
+                    },
+                    {
+                        "number": "195",
+                        "text": "Natural Area Reserves System"
+                    },
+                    {
+                        "number": "195D",
+                        "text": "Conservation of Aquatic Life, Wildlife, and Land Plants"
+                    },
+                    {
+                        "number": "195F",
+                        "text": "Forest Stewardship"
+                    },
+                    {
+                        "number": "196",
+                        "text": "Energy Resources"
+                    },
+                    {
+                        "number": "196D",
+                        "text": "Geothermal and Cable System Development"
+                    },
+                    {
+                        "number": "197",
+                        "text": "General Provisions Relating to Aquatic Resources and Wildlife"
+                    },
+                    {
+                        "number": "198",
+                        "text": "Conservation Easements"
+                    },
+                    {
+                        "number": "198D",
+                        "text": "Hawaii Statewide Trail and Access System"
+                    },
+                    {
+                        "number": "199",
+                        "text": "Conservation and Resources Enforcement Program"
+                    },
+                    {
+                        "number": "199D",
+                        "text": "Civil Natural Resource Violations Act"
+                    },
+                    {
+                        "number": "200",
+                        "text": "Ocean Recreation and Coastal Areas Programs"
+                    },
+                    {
+                        "number": "200D",
+                        "text": "Kaneohe Bay Regional Council"
+                    }
+                ],
+                "name": "TITLE 12. CONSERVATION AND RESOURCES"
+            },
+            {
+                "chapters": [
+                    {
+                        "number": "201",
+                        "text": "Department of Business, Economic Development, and Tourism"
+                    },
+                    {
+                        "number": "201B",
+                        "text": "Hawaii Tourism Authority"
+                    },
+                    {
+                        "number": "201C",
+                        "text": "Financial Services Assistance Program"
+                    },
+                    {
+                        "number": "201D",
+                        "text": "Business Action Center--Repealed"
+                    },
+                    {
+                        "number": "201E",
+                        "text": "Housing Finance and Development Corporation--Repealed"
+                    },
+                    {
+                        "number": "201F",
+                        "text": "Rental Housing Trust Fund--Repealed"
+                    },
+                    {
+                        "number": "201G",
+                        "text": "Housing and Community Development Corporation of Hawaii--Repealed"
+                    },
+                    {
+                        "number": "201H",
+                        "text": "Hawaii Housing Finance and Development Corporation"
+                    },
+                    {
+                        "number": "201M",
+                        "text": "Small Business Regulatory Flexibility Act"
+                    },
+                    {
+                        "number": "201N",
+                        "text": "Renewable Energy Facility Siting Process"
+                    },
+                    {
+                        "number": "202",
+                        "text": "Hawaii Workforce Development Council"
+                    },
+                    {
+                        "number": "203",
+                        "text": "Tourism Development--Repealed"
+                    },
+                    {
+                        "number": "204",
+                        "text": "State Fairs--Repealed"
+                    },
+                    {
+                        "number": "205",
+                        "text": "Land Use Commission"
+                    },
+                    {
+                        "number": "205A",
+                        "text": "Coastal Zone Management"
+                    },
+                    {
+                        "number": "206",
+                        "text": "Oahu Land Development"
+                    },
+                    {
+                        "number": "206E",
+                        "text": "Hawaii Community Development Authority"
+                    },
+                    {
+                        "number": "206G",
+                        "text": "Kalaeloa Community Development District--Repealed"
+                    },
+                    {
+                        "number": "206J",
+                        "text": "Aloha Tower Development Corporation"
+                    },
+                    {
+                        "number": "206M",
+                        "text": "High Technology Development Corporation"
+                    },
+                    {
+                        "number": "206P",
+                        "text": "Hawaii Telecommunications and Information Industries Act--Repealed"
+                    },
+                    {
+                        "number": "206X",
+                        "text": "Convention Center Authority--Repealed"
+                    },
+                    {
+                        "number": "207",
+                        "text": "Mortgage Loans"
+                    },
+                    {
+                        "number": "208",
+                        "text": "Economic Redevelopment Program for Depressed Areas--Repealed"
+                    },
+                    {
+                        "number": "209",
+                        "text": "Disaster Relief and Rehabilitation"
+                    },
+                    {
+                        "number": "209E",
+                        "text": "State Enterprise Zones"
+                    },
+                    {
+                        "number": "210",
+                        "text": "Capital Loan Program"
+                    },
+                    {
+                        "number": "210D",
+                        "text": "Community-Based Development"
+                    },
+                    {
+                        "number": "211",
+                        "text": "Guarantee of Commercial Loans--Repealed"
+                    },
+                    {
+                        "number": "211D",
+                        "text": "Capital Access Program"
+                    },
+                    {
+                        "number": "211E",
+                        "text": "Hawaii Innovation Development Program"
+                    },
+                    {
+                        "number": "211F",
+                        "text": "Hawaii Strategic Development Corporation"
+                    },
+                    {
+                        "number": "211G",
+                        "text": "State Private Investment Fund--Repealed"
+                    },
+                    {
+                        "number": "212",
+                        "text": "Foreign-Trade Zones"
+                    },
+                    {
+                        "number": "213",
+                        "text": "Research and Development Industry Promotion Program"
+                    },
+                    {
+                        "number": "213E",
+                        "text": "Employee Ownership and Participation Programs--Repealed"
+                    },
+                    {
+                        "number": "214",
+                        "text": "Grants-in-Aid for County Capital Improvement Projects"
+                    },
+                    {
+                        "number": "218",
+                        "text": "Marine Affairs Coordinator--Repealed"
+                    },
+                    {
+                        "number": "219",
+                        "text": "Aquaculture Loan Program"
+                    },
+                    {
+                        "number": "220",
+                        "text": "Aquaculture Farms"
+                    },
+                    {
+                        "number": "221",
+                        "text": "Commission on the Year2000--Repealed"
+                    },
+                    {
+                        "number": "222",
+                        "text": "Hawaii Research Center for Futures Study--Repealed"
+                    },
+                    {
+                        "number": "223",
+                        "text": "Quality Growth Policy"
+                    },
+                    {
+                        "number": "224",
+                        "text": "State Population and Planning--Repealed"
+                    },
+                    {
+                        "number": "225",
+                        "text": "Policy Planning--Repealed"
+                    },
+                    {
+                        "number": "225M",
+                        "text": "State Planning"
+                    },
+                    {
+                        "number": "225P",
+                        "text": "Climate Adaptation"
+                    },
+                    {
+                        "number": "226",
+                        "text": "Hawaii State Planning Act"
+                    },
+                    {
+                        "number": "227",
+                        "text": "Natural Energy Laboratory of Hawaii--Repealed"
+                    },
+                    {
+                        "number": "227D",
+                        "text": "Natural Energy Laboratory of Hawaii Authority"
+                    },
+                    {
+                        "number": "228",
+                        "text": "Ocean Resources Management--Repealed"
+                    },
+                    {
+                        "number": "229",
+                        "text": "Sister-State and Province Relationships"
+                    }
+                ],
+                "name": "TITLE 13. PLANNING AND ECONOMIC DEVELOPMENT"
+            },
+            {
+                "chapters": [
+                    {
+                        "number": "231",
+                        "text": "Administration of Taxes"
+                    },
+                    {
+                        "number": "232",
+                        "text": "Tax Appeals"
+                    },
+                    {
+                        "number": "232E",
+                        "text": "Tax Review Commission"
+                    },
+                    {
+                        "number": "233",
+                        "text": "Tax Classification of Certain Business Relationships"
+                    },
+                    {
+                        "number": "234",
+                        "text": "Tax Relief for Natural Disaster Losses--Repealed"
+                    },
+                    {
+                        "number": "235",
+                        "text": "Income Tax Law"
+                    },
+                    {
+                        "number": "235D",
+                        "text": "Qualified Improvement Tax Credit--Repealed"
+                    },
+                    {
+                        "number": "236",
+                        "text": "Inheritance and Estate Taxes Law--Repealed"
+                    },
+                    {
+                        "number": "236A",
+                        "text": "Revised Uniform Estate Tax Apportionment Act--Repealed"
+                    },
+                    {
+                        "number": "236D",
+                        "text": "Estate and Transfer Tax"
+                    },
+                    {
+                        "number": "236E",
+                        "text": "Estate and Generation-Skipping Transfer Tax"
+                    },
+                    {
+                        "number": "237",
+                        "text": "General Excise Tax Law"
+                    },
+                    {
+                        "number": "237D",
+                        "text": "Transient Accommodations Tax"
+                    },
+                    {
+                        "number": "238",
+                        "text": "Use Tax Law"
+                    },
+                    {
+                        "number": "239",
+                        "text": "Public Service Company Tax Law"
+                    },
+                    {
+                        "number": "240",
+                        "text": "Public Utilities; Franchise Tax"
+                    },
+                    {
+                        "number": "241",
+                        "text": "Taxation of Banks and Other Financial Corporations"
+                    },
+                    {
+                        "number": "242",
+                        "text": "Mortgage Loan Exemption--Repealed"
+                    },
+                    {
+                        "number": "243",
+                        "text": "Fuel Tax Law"
+                    },
+                    {
+                        "number": "244",
+                        "text": "Liquor Tax Law--Repealed"
+                    },
+                    {
+                        "number": "244D",
+                        "text": "Liquor Tax Law"
+                    },
+                    {
+                        "number": "245",
+                        "text": "Cigarette Tax and Tobacco Tax Law"
+                    },
+                    {
+                        "number": "246",
+                        "text": "Real Property Tax Law"
+                    },
+                    {
+                        "number": "246A",
+                        "text": "Transfer of Real Property Taxation Functions"
+                    },
+                    {
+                        "number": "247",
+                        "text": "Conveyance Tax"
+                    },
+                    {
+                        "number": "248",
+                        "text": "County Budgets; Tax Funds"
+                    },
+                    {
+                        "number": "249",
+                        "text": "County Vehicular Taxes"
+                    },
+                    {
+                        "number": "251",
+                        "text": "Rental Motor Vehicle, Tour Vehicle, and Car-Sharing Vehicle Surcharge Tax"
+                    },
+                    {
+                        "number": "255",
+                        "text": "Multistate Tax Compact"
+                    },
+                    {
+                        "number": "255D",
+                        "text": "Hawaii Simplified Sales and Use Tax Administration Act"
+                    },
+                    {
+                        "number": "256",
+                        "text": "College Savings Program"
+                    },
+                    {
+                        "number": "256B",
+                        "text": "Hawaii ABLE Savings Program"
+                    },
+                    {
+                        "number": "257",
+                        "text": "Individual Development Accounts"
+                    }
+                ],
+                "name": "TITLE 14. TAXATION"
+            },
+            {
+                "chapters": [
+                    {
+                        "number": "261",
+                        "text": "Aeronautics"
+                    },
+                    {
+                        "number": "261C",
+                        "text": "Hawaii Air Carriers--Repealed"
+                    },
+                    {
+                        "number": "261D",
+                        "text": "Transportation Use Special Fund"
+                    },
+                    {
+                        "number": "261E",
+                        "text": "Hawaii Air Carriers"
+                    },
+                    {
+                        "number": "262",
+                        "text": "Airport Zoning Act"
+                    },
+                    {
+                        "number": "263",
+                        "text": "Uniform Aeronautics Act (Modified)"
+                    },
+                    {
+                        "number": "263A",
+                        "text": "Alcohol and Aviation Safety"
+                    },
+                    {
+                        "number": "264",
+                        "text": "Highways"
+                    },
+                    {
+                        "number": "265",
+                        "text": "County Highways, Sidewalks, Wharves--Repealed"
+                    },
+                    {
+                        "number": "265A",
+                        "text": "County Highways and Sidewalks"
+                    },
+                    {
+                        "number": "266",
+                        "text": "Harbors"
+                    },
+                    {
+                        "number": "267",
+                        "text": "Boating Law--Repealed"
+                    },
+                    {
+                        "number": "267A",
+                        "text": "Abandoned Vessels--Repealed"
+                    },
+                    {
+                        "number": "267B",
+                        "text": "Trespass to Vessels--Repealed"
+                    },
+                    {
+                        "number": "267C",
+                        "text": "Vessel Identification Numbers--Repealed"
+                    },
+                    {
+                        "number": "268",
+                        "text": "Ferries"
+                    },
+                    {
+                        "number": "269",
+                        "text": "Public Utilities Commission"
+                    },
+                    {
+                        "number": "269E",
+                        "text": "One Call Center; Advance Warning to Excavators"
+                    },
+                    {
+                        "number": "270",
+                        "text": "Employees of Public Utilities--Repealed"
+                    },
+                    {
+                        "number": "271",
+                        "text": "Motor Carrier Law"
+                    },
+                    {
+                        "number": "271G",
+                        "text": "Hawaii Water Carrier Act"
+                    },
+                    {
+                        "number": "272",
+                        "text": "Defrauding Carriers of Passengers--Repealed"
+                    },
+                    {
+                        "number": "273",
+                        "text": "Railway Law"
+                    },
+                    {
+                        "number": "274",
+                        "text": "Radio Control--Repealed"
+                    },
+                    {
+                        "number": "275",
+                        "text": "Liabilities and Offenses Connected with Telephones, Wire Communications, and Cable Television Systems"
+                    },
+                    {
+                        "number": "277",
+                        "text": "Energy Corridors"
+                    },
+                    {
+                        "number": "279",
+                        "text": "Transportation Control--Repealed"
+                    },
+                    {
+                        "number": "279A",
+                        "text": "Statewide Transportation Planning"
+                    },
+                    {
+                        "number": "279D",
+                        "text": "Metropolitan Planning Organizations"
+                    },
+                    {
+                        "number": "279E",
+                        "text": "Metropolitan Planning Organization--Repealed"
+                    },
+                    {
+                        "number": "279G",
+                        "text": "Ridesharing"
+                    }
+                ],
+                "name": "TITLE 15. TRANSPORTATION AND UTILITIES"
+            },
+            {
+                "chapters": [
+                    {
+                        "number": "281",
+                        "text": "Intoxicating Liquor"
+                    }
+                ],
+                "name": "TITLE 16. INTOXICATING LIQUOR"
+            },
+            {
+                "chapters": [
+                    {
+                        "number": "286",
+                        "text": "Highway Safety"
+                    },
+                    {
+                        "number": "286A",
+                        "text": "Vehicle Equipment Safety Compact--Repealed"
+                    },
+                    {
+                        "number": "286C",
+                        "text": "Driver License Compact"
+                    },
+                    {
+                        "number": "286G",
+                        "text": "Driver Education and Training Fund"
+                    },
+                    {
+                        "number": "287",
+                        "text": "Motor Vehicle Safety Responsibility Act"
+                    },
+                    {
+                        "number": "288",
+                        "text": "Common Carriers, Compulsory Insurance"
+                    },
+                    {
+                        "number": "289",
+                        "text": "Used Motor Vehicle Parts and Accessories"
+                    },
+                    {
+                        "number": "290",
+                        "text": "Abandoned Vehicles"
+                    },
+                    {
+                        "number": "291",
+                        "text": "Traffic Violations"
+                    },
+                    {
+                        "number": "291A",
+                        "text": "Nonresident Violator Compact"
+                    },
+                    {
+                        "number": "291C",
+                        "text": "Statewide Traffic Code"
+                    },
+                    {
+                        "number": "291D",
+                        "text": "Adjudication of Traffic Infractions"
+                    },
+                    {
+                        "number": "291E",
+                        "text": "Use of Intoxicants While Operating a Vehicle"
+                    },
+                    {
+                        "number": "292",
+                        "text": "Odometer Accuracy and Record Maintenance--Repealed"
+                    },
+                    {
+                        "number": "293",
+                        "text": "Bicycles"
+                    },
+                    {
+                        "number": "294",
+                        "text": "Motor Vehicle Accident Reparations--Repealed"
+                    }
+                ],
+                "name": "TITLE 17. MOTOR AND OTHER VEHICLES"
+            },
+            {
+                "chapters": [
+                    {
+                        "number": "296",
+                        "text": "Public Education--Repealed"
+                    },
+                    {
+                        "number": "296C",
+                        "text": "School/Community-Based Management--Repealed"
+                    },
+                    {
+                        "number": "296D",
+                        "text": "School Priority Fund--Repealed"
+                    },
+                    {
+                        "number": "297",
+                        "text": "Personnel of Public Schools--Repealed"
+                    },
+                    {
+                        "number": "297D",
+                        "text": "Hawaii Teacher Standards Board--Repealed"
+                    },
+                    {
+                        "number": "298",
+                        "text": "Schools and Attendance, Generally--Repealed"
+                    },
+                    {
+                        "number": "299",
+                        "text": "Driver Education--Repealed"
+                    },
+                    {
+                        "number": "300",
+                        "text": "Technical and Vocational Training--Repealed"
+                    },
+                    {
+                        "number": "301",
+                        "text": "Other Special Training--Repealed"
+                    },
+                    {
+                        "number": "302",
+                        "text": "Agents of Private Schools and Correspondence Schools--Repealed"
+                    },
+                    {
+                        "number": "302A",
+                        "text": "Education"
+                    },
+                    {
+                        "number": "302B",
+                        "text": "Public Charter Schools--Repealed"
+                    },
+                    {
+                        "number": "302C",
+                        "text": "Private Schools"
+                    },
+                    {
+                        "number": "302D",
+                        "text": "Public Charter Schools"
+                    },
+                    {
+                        "number": "302H",
+                        "text": "Hawaiian Language Medium Education"
+                    },
+                    {
+                        "number": "302L",
+                        "text": "Early Learning System"
+                    },
+                    {
+                        "number": "303",
+                        "text": "Employees' Annuity and Custodial Account Contracts"
+                    },
+                    {
+                        "number": "304",
+                        "text": "University of Hawaii--Repealed"
+                    },
+                    {
+                        "number": "304A",
+                        "text": "University of Hawaii System"
+                    },
+                    {
+                        "number": "304D",
+                        "text": "Center for Nursing--Repealed"
+                    },
+                    {
+                        "number": "304E",
+                        "text": "Nursing Scholars Program--Repealed"
+                    },
+                    {
+                        "number": "305",
+                        "text": "Community Colleges--Repealed"
+                    },
+                    {
+                        "number": "305A",
+                        "text": "Career and Technical Education Under Federal Aid--Repealed"
+                    },
+                    {
+                        "number": "305E",
+                        "text": "College-Credit Equivalency Program--Repealed"
+                    },
+                    {
+                        "number": "305H",
+                        "text": "State Post-Secondary Education Commission--Repealed"
+                    },
+                    {
+                        "number": "305J",
+                        "text": "Post-Secondary Education Authorization"
+                    },
+                    {
+                        "number": "306",
+                        "text": "University Projects--Repealed"
+                    },
+                    {
+                        "number": "307",
+                        "text": "Research Corporation of the University of Hawaii-- Repealed"
+                    },
+                    {
+                        "number": "308",
+                        "text": "University Parking--Repealed"
+                    },
+                    {
+                        "number": "309",
+                        "text": "Student Loan Funds"
+                    },
+                    {
+                        "number": "309H",
+                        "text": "Hawaii Health Corps"
+                    },
+                    {
+                        "number": "310",
+                        "text": "Western Regional Education Compact--Repealed"
+                    },
+                    {
+                        "number": "311",
+                        "text": "Compact for Education"
+                    },
+                    {
+                        "number": "311D",
+                        "text": "Interstate Compact on Educational Opportunity for Military Children"
+                    },
+                    {
+                        "number": "312",
+                        "text": "Libraries"
+                    },
+                    {
+                        "number": "314",
+                        "text": "Hawaii Public Broadcasting Authority--Repealed"
+                    },
+                    {
+                        "number": "315",
+                        "text": "Interstate Agreement on Qualifications of Educational Personnel"
+                    },
+                    {
+                        "number": "317",
+                        "text": "Secondary School Students Conference--Repealed"
+                    },
+                    {
+                        "number": "318",
+                        "text": "College and University Student Leaders Conference--Repealed"
+                    },
+                    {
+                        "number": "319",
+                        "text": "Dental Education"
+                    }
+                ],
+                "name": "TITLE 18. EDUCATION"
+            },
+            {
+                "chapters": [
+                    {
+                        "number": "321",
+                        "text": "Department of Health"
+                    },
+                    {
+                        "number": "321C",
+                        "text": "Office of Language Access"
+                    },
+                    {
+                        "number": "321D",
+                        "text": "Interdepartmental Cluster for Services to Children"
+                    },
+                    {
+                        "number": "321E",
+                        "text": "Dispersal Review Council--Repealed"
+                    },
+                    {
+                        "number": "321F",
+                        "text": "Office of the Aloha Health Corps--Repealed"
+                    },
+                    {
+                        "number": "321G",
+                        "text": "California-Hawaii Cooperative Commission--Repealed"
+                    },
+                    {
+                        "number": "321H",
+                        "text": "Neurotrauma"
+                    },
+                    {
+                        "number": "322",
+                        "text": "Nuisances; Sanitary Regulations"
+                    },
+                    {
+                        "number": "322H",
+                        "text": "Hawaii Health Authority"
+                    },
+                    {
+                        "number": "323",
+                        "text": "Hospitals and Medical Facilities"
+                    },
+                    {
+                        "number": "323B",
+                        "text": "Health Care Privacy Harmonization Act"
+                    },
+                    {
+                        "number": "323C",
+                        "text": "Privacy of Health Care Information--Repealed"
+                    },
+                    {
+                        "number": "323D",
+                        "text": "Health Planning and Resources Development and Health Care Cost Control"
+                    },
+                    {
+                        "number": "323F",
+                        "text": "Hawaii Health Systems Corporation"
+                    },
+                    {
+                        "number": "324",
+                        "text": "Medical Research; Morbidity and Mortality Information"
+                    },
+                    {
+                        "number": "325",
+                        "text": "Infectious and Communicable Diseases"
+                    },
+                    {
+                        "number": "326",
+                        "text": "Hansen's Disease"
+                    },
+                    {
+                        "number": "327",
+                        "text": "Medical and Research Use of Bodies"
+                    },
+                    {
+                        "number": "327C",
+                        "text": "Death"
+                    },
+                    {
+                        "number": "327D",
+                        "text": "Medical Treatment Decisions--Repealed"
+                    },
+                    {
+                        "number": "327E",
+                        "text": "Uniform Health-Care Decisions Act (Modified)"
+                    },
+                    {
+                        "number": "327F",
+                        "text": "Medical Treatment Decisions for Psychotic Disorders-- Repealed"
+                    },
+                    {
+                        "number": "327G",
+                        "text": "Advance Mental Health Care Directives"
+                    },
+                    {
+                        "number": "327H",
+                        "text": "Pain Patient's Bill of Rights"
+                    },
+                    {
+                        "number": "327K",
+                        "text": "Provider Orders for Life-Sustaining Treatment"
+                    },
+                    {
+                        "number": "328",
+                        "text": "Food, Drugs, and Cosmetics"
+                    },
+                    {
+                        "number": "328A",
+                        "text": "Water, Furnishing Potable--Repealed"
+                    },
+                    {
+                        "number": "328B",
+                        "text": "Return-for-Credit-and-Reuse of Prescription Drugs"
+                    },
+                    {
+                        "number": "328C",
+                        "text": "Donation of Pharmaceuticals and Health Care Supplies"
+                    },
+                    {
+                        "number": "328D",
+                        "text": "Bottled Water"
+                    },
+                    {
+                        "number": "328E",
+                        "text": "Intoxicating Compounds"
+                    },
+                    {
+                        "number": "328J",
+                        "text": "Smoking"
+                    },
+                    {
+                        "number": "328K",
+                        "text": "Smoking--Repealed"
+                    },
+                    {
+                        "number": "328L",
+                        "text": "Hawaii Tobacco Settlement Moneys"
+                    },
+                    {
+                        "number": "329",
+                        "text": "Uniform Controlled Substances Act"
+                    },
+                    {
+                        "number": "329B",
+                        "text": "Substance Abuse Testing"
+                    },
+                    {
+                        "number": "329C",
+                        "text": "Imitation Controlled Substances Act"
+                    },
+                    {
+                        "number": "329D",
+                        "text": "Medical Marijuana Dispensary System"
+                    },
+                    {
+                        "number": "330",
+                        "text": "Poisons, Sale of"
+                    },
+                    {
+                        "number": "330C",
+                        "text": "Hawaii Poison Prevention Packaging Act"
+                    },
+                    {
+                        "number": "331",
+                        "text": "Radium for Medical and Surgical Purposes--Repealed"
+                    },
+                    {
+                        "number": "332",
+                        "text": "Mattresses, Manufacture, Etc., and Sale of"
+                    },
+                    {
+                        "number": "332D",
+                        "text": "Polybrominated Diphenyl Ethers"
+                    },
+                    {
+                        "number": "333",
+                        "text": "Mental Retardation--Repealed"
+                    },
+                    {
+                        "number": "333E",
+                        "text": "Developmental Disabilities"
+                    },
+                    {
+                        "number": "333F",
+                        "text": "Services for Persons with Developmental orIntellectual Disabilities"
+                    },
+                    {
+                        "number": "334",
+                        "text": "Mental Health, Mental Illness, Drug Addiction, and Alcoholism"
+                    },
+                    {
+                        "number": "334B",
+                        "text": "Utilization Review and Managed Care of Mental Health, Alcohol, or Drug Abuse Treatment"
+                    },
+                    {
+                        "number": "334D",
+                        "text": "Diversion Program for Chemically Dependent Nurses"
+                    },
+                    {
+                        "number": "334E",
+                        "text": "Rights of Recipients of Mental Health Services"
+                    },
+                    {
+                        "number": "335",
+                        "text": "Interstate Compact on Mental Health"
+                    },
+                    {
+                        "number": "336",
+                        "text": "Deportation and Transfer of Alien and Nonresident Public Charges"
+                    },
+                    {
+                        "number": "337",
+                        "text": "Uniform Act for the Extradition of Persons of Unsound Mind"
+                    },
+                    {
+                        "number": "338",
+                        "text": "Vital Statistics"
+                    },
+                    {
+                        "number": "339",
+                        "text": "Litter Control"
+                    },
+                    {
+                        "number": "339D",
+                        "text": "Electronic Waste and Television Recycling and Recovery Act"
+                    },
+                    {
+                        "number": "339K",
+                        "text": "Northwest Interstate Compact on Low-Level Radioactive Waste Management"
+                    },
+                    {
+                        "number": "340",
+                        "text": "Hawaii Waste Management--Repealed"
+                    },
+                    {
+                        "number": "340A",
+                        "text": "Solid Waste"
+                    },
+                    {
+                        "number": "340B",
+                        "text": "Wastewater Treatment Personnel"
+                    },
+                    {
+                        "number": "340E",
+                        "text": "Safe Drinking Water"
+                    },
+                    {
+                        "number": "340F",
+                        "text": "Hawaii Law for Mandatory Certification of Public Water System Operators"
+                    },
+                    {
+                        "number": "341",
+                        "text": "Environmental Quality Control"
+                    },
+                    {
+                        "number": "342",
+                        "text": "Environmental Quality--Repealed"
+                    },
+                    {
+                        "number": "342B",
+                        "text": "Air Pollution Control"
+                    },
+                    {
+                        "number": "342C",
+                        "text": "Ozone Layer Protection"
+                    },
+                    {
+                        "number": "342D",
+                        "text": "Water Pollution"
+                    },
+                    {
+                        "number": "342E",
+                        "text": "Nonpoint Source Pollution Management and Control"
+                    },
+                    {
+                        "number": "342F",
+                        "text": "Noise Pollution"
+                    },
+                    {
+                        "number": "342G",
+                        "text": "Integrated Solid Waste Management"
+                    },
+                    {
+                        "number": "342H",
+                        "text": "Solid Waste Pollution"
+                    },
+                    {
+                        "number": "342I",
+                        "text": "Special Wastes Recycling"
+                    },
+                    {
+                        "number": "342J",
+                        "text": "Hazardous Waste"
+                    },
+                    {
+                        "number": "342L",
+                        "text": "Underground Storage Tanks"
+                    },
+                    {
+                        "number": "342N",
+                        "text": "Used Oil Transport, Recycling, and Disposal--Repealed"
+                    },
+                    {
+                        "number": "342P",
+                        "text": "Asbestos and Lead"
+                    },
+                    {
+                        "number": "343",
+                        "text": "Environmental Impact Statements"
+                    },
+                    {
+                        "number": "343D",
+                        "text": "Hawaii Environmental Disclosure Law--Repealed"
+                    },
+                    {
+                        "number": "344",
+                        "text": "State Environmental Policy"
+                    }
+                ],
+                "name": "TITLE 19. HEALTH"
+            },
+            {
+                "chapters": [
+                    {
+                        "number": "346",
+                        "text": "Department of Human Services"
+                    },
+                    {
+                        "number": "346C",
+                        "text": "Long-Term Care Financing Program"
+                    },
+                    {
+                        "number": "346D",
+                        "text": "Long-Term Care"
+                    },
+                    {
+                        "number": "346E",
+                        "text": "Nursing Facility Tax"
+                    },
+                    {
+                        "number": "347",
+                        "text": "Blind, Visually Handicapped, and Other Disabled Persons"
+                    },
+                    {
+                        "number": "347D",
+                        "text": "Hawaii State Coordinating Council on Deafness--Repealed"
+                    },
+                    {
+                        "number": "348",
+                        "text": "Vocational Rehabilitation"
+                    },
+                    {
+                        "number": "348E",
+                        "text": "Commission on Persons with Disabilities--Repealed"
+                    },
+                    {
+                        "number": "348F",
+                        "text": "Disability and Communication Access Board"
+                    },
+                    {
+                        "number": "349",
+                        "text": "Executive Office on Aging"
+                    },
+                    {
+                        "number": "349C",
+                        "text": "Elder Abuse or Neglect--Repealed"
+                    },
+                    {
+                        "number": "350",
+                        "text": "Child Abuse"
+                    },
+                    {
+                        "number": "350B",
+                        "text": "Hawaii Children's Trust Fund"
+                    },
+                    {
+                        "number": "350C",
+                        "text": "Adoption Assistance Compact and Procedures for Interstate Services Payments"
+                    },
+                    {
+                        "number": "350E",
+                        "text": "Interstate Compact on Placement of Children"
+                    },
+                    {
+                        "number": "351",
+                        "text": "Crime Victim Compensation"
+                    },
+                    {
+                        "number": "352",
+                        "text": "Hawaii Youth Correctional Facilities"
+                    },
+                    {
+                        "number": "352D",
+                        "text": "Office of Youth Services"
+                    },
+                    {
+                        "number": "353",
+                        "text": "Corrections"
+                    },
+                    {
+                        "number": "353B",
+                        "text": "Interstate Compact for the Supervision of Adult Offenders"
+                    },
+                    {
+                        "number": "353C",
+                        "text": "Public Safety"
+                    },
+                    {
+                        "number": "353D",
+                        "text": "Offender Family Service Center Act"
+                    },
+                    {
+                        "number": "353E",
+                        "text": "Statewide Integrated Sex Offender Treatment Program"
+                    },
+                    {
+                        "number": "353F",
+                        "text": "Corrections Population Management Commission"
+                    },
+                    {
+                        "number": "353G",
+                        "text": "Criminal Offender Treatment Act"
+                    },
+                    {
+                        "number": "353H",
+                        "text": "Comprehensive Offender Reentry System"
+                    },
+                    {
+                        "number": "354",
+                        "text": "Correctional Industries--Repealed"
+                    },
+                    {
+                        "number": "354D",
+                        "text": "Hawaii Correctional Industries"
+                    },
+                    {
+                        "number": "355",
+                        "text": "Western Interstate Corrections Compact"
+                    },
+                    {
+                        "number": "355D",
+                        "text": "Interstate Corrections Compact"
+                    },
+                    {
+                        "number": "356",
+                        "text": "Hawaii Housing Authority; Low Income Housing--Repealed"
+                    },
+                    {
+                        "number": "356D",
+                        "text": "Hawaii Public Housing Authority"
+                    },
+                    {
+                        "number": "357",
+                        "text": "Federal Housing Projects--Repealed"
+                    },
+                    {
+                        "number": "358",
+                        "text": "Government Aid for Housing Projects--Repealed"
+                    },
+                    {
+                        "number": "358D",
+                        "text": "Homeless Assistance Act--Repealed"
+                    },
+                    {
+                        "number": "359",
+                        "text": "State Housing Projects--Repealed"
+                    },
+                    {
+                        "number": "359A",
+                        "text": "Teachers Housing--Repealed"
+                    },
+                    {
+                        "number": "359G",
+                        "text": "Hawaii Housing Authority--Housing Projects--Repealed"
+                    },
+                    {
+                        "number": "359L",
+                        "text": "Factory Built Housing--Repealed"
+                    },
+                    {
+                        "number": "360",
+                        "text": "Provisions Applicable to Public Housing Generally--Repealed"
+                    },
+                    {
+                        "number": "360E",
+                        "text": "Advisory Council on Housing--Repealed"
+                    },
+                    {
+                        "number": "361",
+                        "text": "Community Home Mortgage Program--Repealed"
+                    },
+                    {
+                        "number": "362",
+                        "text": "Progressive Neighborhoods Program--Repealed"
+                    },
+                    {
+                        "number": "363",
+                        "text": "Veterans Rights and Benefits"
+                    },
+                    {
+                        "number": "364",
+                        "text": "Veterans Loans--Repealed"
+                    },
+                    {
+                        "number": "367",
+                        "text": "Status of Women"
+                    },
+                    {
+                        "number": "367D",
+                        "text": "Parity for Female Offenders"
+                    },
+                    {
+                        "number": "368",
+                        "text": "Civil Rights Commission"
+                    }
+                ],
+                "name": "TITLE 20. SOCIAL SERVICES"
+            },
+            {
+                "chapters": [
+                    {
+                        "number": "371",
+                        "text": "Department of Labor and Industrial Relations"
+                    },
+                    {
+                        "number": "371K",
+                        "text": "Community Services"
+                    },
+                    {
+                        "number": "372",
+                        "text": "Apprenticeship"
+                    },
+                    {
+                        "number": "373",
+                        "text": "Commercial Employment Agencies"
+                    },
+                    {
+                        "number": "373C",
+                        "text": "Occupational and Career Information"
+                    },
+                    {
+                        "number": "373E",
+                        "text": "Statewide Transition to Work System--Repealed"
+                    },
+                    {
+                        "number": "373F",
+                        "text": "Tourism Training Council--Repealed"
+                    },
+                    {
+                        "number": "373K",
+                        "text": "Professional Employment Organizations--Repealed"
+                    },
+                    {
+                        "number": "373L",
+                        "text": "Professional Employer Organizations"
+                    },
+                    {
+                        "number": "374",
+                        "text": "Emigrant Agents--Repealed"
+                    },
+                    {
+                        "number": "375",
+                        "text": "Garment Industry Homework--Repealed"
+                    },
+                    {
+                        "number": "376",
+                        "text": "Industrial Safety--Repealed"
+                    },
+                    {
+                        "number": "377",
+                        "text": "Hawaii Employment Relations Act"
+                    },
+                    {
+                        "number": "378",
+                        "text": "Employment Practices"
+                    },
+                    {
+                        "number": "379",
+                        "text": "Recruiting and Hiring of Employees During Labor Disputes"
+                    },
+                    {
+                        "number": "379A",
+                        "text": "Picketing of Residence or Dwelling Place"
+                    },
+                    {
+                        "number": "380",
+                        "text": "Labor Disputes; Jurisdiction of Courts"
+                    },
+                    {
+                        "number": "381",
+                        "text": "Labor Disputes; Public Utilities"
+                    },
+                    {
+                        "number": "382",
+                        "text": "Labor Disputes; Stevedoring Industry"
+                    },
+                    {
+                        "number": "383",
+                        "text": "Hawaii Employment Security Law"
+                    },
+                    {
+                        "number": "384",
+                        "text": "Hawaii Agricultural Unemployment Compensation Law--Repealed"
+                    },
+                    {
+                        "number": "385",
+                        "text": "Additional Unemployment Compensation Benefits Law"
+                    },
+                    {
+                        "number": "386",
+                        "text": "Workers' Compensation Law"
+                    },
+                    {
+                        "number": "386A",
+                        "text": "Hawaii State Compensation Mutual Insurance Fund"
+                    },
+                    {
+                        "number": "387",
+                        "text": "Wage and Hour Law"
+                    },
+                    {
+                        "number": "388",
+                        "text": "Wages and Other Compensation, Payment of"
+                    },
+                    {
+                        "number": "390",
+                        "text": "Child Labor Law"
+                    },
+                    {
+                        "number": "392",
+                        "text": "Temporary Disability Insurance"
+                    },
+                    {
+                        "number": "393",
+                        "text": "Prepaid Health Care Act"
+                    },
+                    {
+                        "number": "394",
+                        "text": "Manpower Development and Training"
+                    },
+                    {
+                        "number": "394A",
+                        "text": "Job Training--Repealed"
+                    },
+                    {
+                        "number": "394B",
+                        "text": "Dislocated Workers"
+                    },
+                    {
+                        "number": "396",
+                        "text": "Occupational Safety and Health"
+                    },
+                    {
+                        "number": "397",
+                        "text": "Boiler and Elevator Safety Law"
+                    },
+                    {
+                        "number": "398",
+                        "text": "Family Leave"
+                    },
+                    {
+                        "number": "398A",
+                        "text": "Leave of Absence for Organ, Bone Marrow, or Peripheral Blood Stem Cell Donation"
+                    }
+                ],
+                "name": "TITLE 21. LABOR AND INDUSTRIAL RELATIONS"
+            }
+        ]
+    },
+    {
+        "name": "DIVISION 2. BUSINESS",
+        "titles": [
+            {
+                "chapters": [
+                    {
+                        "number": "401",
+                        "text": "Commissioner of Financial Institutions--Repealed"
+                    },
+                    {
+                        "number": "402",
+                        "text": "Fiduciaries and Investments--Repealed"
+                    },
+                    {
+                        "number": "403",
+                        "text": "Hawaii Bank Act--Repealed"
+                    },
+                    {
+                        "number": "404",
+                        "text": "Bank Mergers--Repealed"
+                    },
+                    {
+                        "number": "405",
+                        "text": "International and Foreign Banking by Hawaii Corporations--Repealed"
+                    },
+                    {
+                        "number": "405A",
+                        "text": "International Banking Facilities--Repealed"
+                    },
+                    {
+                        "number": "405D",
+                        "text": "Foreign Banks--Repealed"
+                    },
+                    {
+                        "number": "406",
+                        "text": "Trust Companies--Repealed"
+                    },
+                    {
+                        "number": "407",
+                        "text": "Savings and Loan Associations--Repealed"
+                    },
+                    {
+                        "number": "408",
+                        "text": "Financial Services Loan Companies--Repealed"
+                    },
+                    {
+                        "number": "408A",
+                        "text": "Industrial Loan Company Guaranty Act--Repealed"
+                    },
+                    {
+                        "number": "409",
+                        "text": "Small Loan Companies--Repealed"
+                    },
+                    {
+                        "number": "410",
+                        "text": "State Chartered Credit Unions--Repealed"
+                    },
+                    {
+                        "number": "411",
+                        "text": "Emergency Acquisition of Financial Institutions--Repealed"
+                    },
+                    {
+                        "number": "412",
+                        "text": "Code of Financial Institutions"
+                    }
+                ],
+                "name": "TITLE 22. BANKS AND FINANCIAL INSTITUTIONS"
+            },
+            {
+                "chapters": [
+                    {
+                        "number": "414",
+                        "text": "Hawaii Business Corporation Act"
+                    },
+                    {
+                        "number": "414D",
+                        "text": "Hawaii Nonprofit Corporations Act"
+                    },
+                    {
+                        "number": "414E",
+                        "text": "Control Share Acquisitions"
+                    },
+                    {
+                        "number": "415",
+                        "text": "Hawaii Business Corporation Act--Repealed"
+                    },
+                    {
+                        "number": "415A",
+                        "text": "Professional Corporation Act"
+                    },
+                    {
+                        "number": "415B",
+                        "text": "Hawaii Nonprofit Corporation Act--Repealed"
+                    },
+                    {
+                        "number": "416",
+                        "text": "Corporations, Generally--Repealed"
+                    },
+                    {
+                        "number": "417",
+                        "text": "Consolidation and Merger of Corporations--Repealed"
+                    },
+                    {
+                        "number": "417E",
+                        "text": "Corporate Take-Overs"
+                    },
+                    {
+                        "number": "418",
+                        "text": "Foreign Corporations--Repealed"
+                    },
+                    {
+                        "number": "419",
+                        "text": "Corporations Sole for Ecclesiastical Purposes"
+                    },
+                    {
+                        "number": "420",
+                        "text": "Business Development Corporations--Repealed"
+                    },
+                    {
+                        "number": "420D",
+                        "text": "Sustainable Business Corporations"
+                    },
+                    {
+                        "number": "421",
+                        "text": "Agricultural Cooperative Associations"
+                    },
+                    {
+                        "number": "421C",
+                        "text": "Consumer Cooperative Associations"
+                    },
+                    {
+                        "number": "421G",
+                        "text": "Limited-Equity Housing Cooperatives--Repealed"
+                    },
+                    {
+                        "number": "421H",
+                        "text": "Limited-Equity Housing Cooperatives"
+                    },
+                    {
+                        "number": "421I",
+                        "text": "Cooperative Housing Corporations"
+                    },
+                    {
+                        "number": "421J",
+                        "text": "Planned Community Associations"
+                    },
+                    {
+                        "number": "422",
+                        "text": "Fish Marketing Associations--Repealed"
+                    },
+                    {
+                        "number": "423",
+                        "text": "Dental Service Corporations"
+                    },
+                    {
+                        "number": "424",
+                        "text": "Optometric Service Corporations"
+                    },
+                    {
+                        "number": "425",
+                        "text": "Partnerships"
+                    },
+                    {
+                        "number": "425D",
+                        "text": "Uniform Limited Partnership Act--Repealed"
+                    },
+                    {
+                        "number": "425E",
+                        "text": "Uniform Limited Partnership Act"
+                    },
+                    {
+                        "number": "425R",
+                        "text": "Registered Agents Act"
+                    }
+                ],
+                "name": "TITLE 23. CORPORATIONS AND PARTNERSHIPS"
+            },
+            {
+                "chapters": [
+                    {
+                        "number": "428",
+                        "text": "Uniform Limited Liability Company Act"
+                    },
+                    {
+                        "number": "429",
+                        "text": "Uniform Unincorporated Nonprofit Association Act"
+                    }
+                ],
+                "name": "TITLE  23A. OTHER BUSINESS ENTITIES"
+            },
+            {
+                "chapters": [
+                    {
+                        "number": "431",
+                        "text": "Insurance Code"
+                    },
+                    {
+                        "number": "431A",
+                        "text": "Readability of Insurance Contracts--Repealed"
+                    },
+                    {
+                        "number": "431C",
+                        "text": "Life Settlements"
+                    },
+                    {
+                        "number": "431D",
+                        "text": "Insurance Company Insolvency--Repealed"
+                    },
+                    {
+                        "number": "431E",
+                        "text": "Life Settlements--Repealed"
+                    },
+                    {
+                        "number": "431F",
+                        "text": "Hawaii Life and Disability Insurance Guaranty Association Act--Repealed"
+                    },
+                    {
+                        "number": "431H",
+                        "text": "Insurance Information Protection Act--Repealed"
+                    },
+                    {
+                        "number": "431J",
+                        "text": "Captive Insurance Companies--Repealed"
+                    },
+                    {
+                        "number": "431K",
+                        "text": "Risk Retention"
+                    },
+                    {
+                        "number": "431L",
+                        "text": "Medicaid-Related Mandates"
+                    },
+                    {
+                        "number": "431M",
+                        "text": "Mental Health and Alcohol and Substance Use Disorder Treatment Insurance Benefits"
+                    },
+                    {
+                        "number": "431N",
+                        "text": "State Health Insurance Program Act"
+                    },
+                    {
+                        "number": "431P",
+                        "text": "Hawaii Hurricane Relief Fund"
+                    },
+                    {
+                        "number": "431R",
+                        "text": "Prescription Drug Benefits"
+                    },
+                    {
+                        "number": "432",
+                        "text": "Benefit Societies"
+                    },
+                    {
+                        "number": "432C",
+                        "text": "Nonprofit Entities; Conversion of Assets"
+                    },
+                    {
+                        "number": "432D",
+                        "text": "Health Maintenance Organization Act"
+                    },
+                    {
+                        "number": "432E",
+                        "text": "Patients' Bill of Rights and Responsibilities Act"
+                    },
+                    {
+                        "number": "432F",
+                        "text": "Health Care Provider Network Adequacy"
+                    },
+                    {
+                        "number": "432G",
+                        "text": "Dental Insurers"
+                    },
+                    {
+                        "number": "433",
+                        "text": "Mutual and Fraternal Benefit Societies--Repealed"
+                    },
+                    {
+                        "number": "434",
+                        "text": "Insurance by Fraternal Benefit Societies--Repealed"
+                    },
+                    {
+                        "number": "435",
+                        "text": "Credit Life Insurance and Credit Disability Insurance--Repealed"
+                    },
+                    {
+                        "number": "435C",
+                        "text": "Hawaii Medical Malpractice Underwriting Plan"
+                    },
+                    {
+                        "number": "435E",
+                        "text": "Physicians and Surgeons Cooperative Indemnity"
+                    },
+                    {
+                        "number": "435H",
+                        "text": "Hawaii Health Insurance Exchange"
+                    }
+                ],
+                "name": "TITLE 24. INSURANCE"
+            },
+            {
+                "chapters": [
+                    {
+                        "number": "436",
+                        "text": "Abstract Makers--Repealed"
+                    },
+                    {
+                        "number": "436B",
+                        "text": "Uniform Professional and Vocational Licensing Act"
+                    },
+                    {
+                        "number": "436C",
+                        "text": "Licensing Sanctions for Student Loan Defaults"
+                    },
+                    {
+                        "number": "436D",
+                        "text": "Acupuncture Practitioners--Repealed"
+                    },
+                    {
+                        "number": "436E",
+                        "text": "Acupuncture Practitioners"
+                    },
+                    {
+                        "number": "436H",
+                        "text": "Athletic Trainers"
+                    },
+                    {
+                        "number": "436M",
+                        "text": "Alarm Businesses"
+                    },
+                    {
+                        "number": "437",
+                        "text": "Motor Vehicle Industry Licensing Act"
+                    },
+                    {
+                        "number": "437B",
+                        "text": "Regulation of Motor Vehicle Repairs"
+                    },
+                    {
+                        "number": "437D",
+                        "text": "Motor Vehicle Rental Industry"
+                    },
+                    {
+                        "number": "438",
+                        "text": "Barbering, Practice of"
+                    },
+                    {
+                        "number": "439",
+                        "text": "Beauty Culture"
+                    },
+                    {
+                        "number": "440",
+                        "text": "Boxing Contests"
+                    },
+                    {
+                        "number": "440D",
+                        "text": "No Rules Combat or Similar Contests--Repealed"
+                    },
+                    {
+                        "number": "440E",
+                        "text": "Mixed Martial Arts Contests"
+                    },
+                    {
+                        "number": "440G",
+                        "text": "Cable Television Systems"
+                    },
+                    {
+                        "number": "440J",
+                        "text": "Telecommunications and Cable Industry Information Reporting"
+                    },
+                    {
+                        "number": "441",
+                        "text": "Cemetery and Funeral Trusts"
+                    },
+                    {
+                        "number": "442",
+                        "text": "Chiropractic"
+                    },
+                    {
+                        "number": "443",
+                        "text": "Collection Agencies--Repealed"
+                    },
+                    {
+                        "number": "443A",
+                        "text": "Debt Collection Practices--Repealed"
+                    },
+                    {
+                        "number": "443B",
+                        "text": "Collection Agencies"
+                    },
+                    {
+                        "number": "444",
+                        "text": "Contractors"
+                    },
+                    {
+                        "number": "445",
+                        "text": "County Licenses"
+                    },
+                    {
+                        "number": "446",
+                        "text": "Debt Adjusting"
+                    },
+                    {
+                        "number": "446D",
+                        "text": "Degree Granting Institutions--Repealed"
+                    },
+                    {
+                        "number": "446E",
+                        "text": "Unaccredited Degree Granting Institutions"
+                    },
+                    {
+                        "number": "447",
+                        "text": "Dental Hygienists"
+                    },
+                    {
+                        "number": "448",
+                        "text": "Dentistry"
+                    },
+                    {
+                        "number": "448A",
+                        "text": "Escort Agencies--Repealed"
+                    },
+                    {
+                        "number": "448B",
+                        "text": "Dietitians"
+                    },
+                    {
+                        "number": "448D",
+                        "text": "Dental Service Organizations"
+                    },
+                    {
+                        "number": "448E",
+                        "text": "Electricians and Plumbers"
+                    },
+                    {
+                        "number": "448F",
+                        "text": "Electrologists"
+                    },
+                    {
+                        "number": "448H",
+                        "text": "Elevator Mechanics"
+                    },
+                    {
+                        "number": "449",
+                        "text": "Escrow Depositories"
+                    },
+                    {
+                        "number": "450",
+                        "text": "Fumigation--Repealed"
+                    },
+                    {
+                        "number": "451",
+                        "text": "Gasoline, Fuel, and Motor Oil--Repealed"
+                    },
+                    {
+                        "number": "451A",
+                        "text": "Hearing Aid Dealers and Fitters"
+                    },
+                    {
+                        "number": "451D",
+                        "text": "Health Care Professionals"
+                    },
+                    {
+                        "number": "451J",
+                        "text": "Marriage and Family Therapists"
+                    },
+                    {
+                        "number": "451K",
+                        "text": "Genetic Counselors"
+                    },
+                    {
+                        "number": "452",
+                        "text": "Massage"
+                    },
+                    {
+                        "number": "453",
+                        "text": "Medicine and Surgery"
+                    },
+                    {
+                        "number": "453D",
+                        "text": "Mental Health Counselors"
+                    },
+                    {
+                        "number": "454",
+                        "text": "Mortgage Brokers and Solicitors--Repealed"
+                    },
+                    {
+                        "number": "454D",
+                        "text": "Real Estate Collection Servicing Agents--Repealed"
+                    },
+                    {
+                        "number": "454F",
+                        "text": "Secure and Fair Enforcement for Mortgage Licensing Act"
+                    },
+                    {
+                        "number": "454M",
+                        "text": "Mortgage Servicers"
+                    },
+                    {
+                        "number": "455",
+                        "text": "Naturopathic Medicine"
+                    },
+                    {
+                        "number": "456",
+                        "text": "Notaries Public"
+                    },
+                    {
+                        "number": "457",
+                        "text": "Nurses"
+                    },
+                    {
+                        "number": "457A",
+                        "text": "Nurse Aides"
+                    },
+                    {
+                        "number": "457B",
+                        "text": "Nursing Home Administrators Act"
+                    },
+                    {
+                        "number": "457G",
+                        "text": "Occupational Therapy Practice"
+                    },
+                    {
+                        "number": "458",
+                        "text": "Opticians, Dispensing"
+                    },
+                    {
+                        "number": "459",
+                        "text": "Optometry"
+                    },
+                    {
+                        "number": "460",
+                        "text": "Osteopathy--Repealed"
+                    },
+                    {
+                        "number": "460J",
+                        "text": "Pest Control Operators"
+                    },
+                    {
+                        "number": "461",
+                        "text": "Pharmacists and Pharmacy"
+                    },
+                    {
+                        "number": "461J",
+                        "text": "Physical Therapy Practice Act"
+                    },
+                    {
+                        "number": "462",
+                        "text": "Photography--Repealed"
+                    },
+                    {
+                        "number": "462A",
+                        "text": "Pilotage"
+                    },
+                    {
+                        "number": "463",
+                        "text": "Private Investigators and Guards"
+                    },
+                    {
+                        "number": "463E",
+                        "text": "Podiatrists"
+                    },
+                    {
+                        "number": "464",
+                        "text": "Professional Engineers, Architects, Surveyors and Landscape Architects"
+                    },
+                    {
+                        "number": "465",
+                        "text": "Psychologists"
+                    },
+                    {
+                        "number": "465D",
+                        "text": "Behavior Analysts"
+                    },
+                    {
+                        "number": "466",
+                        "text": "Public Accountancy"
+                    },
+                    {
+                        "number": "466D",
+                        "text": "Respiratory Therapists"
+                    },
+                    {
+                        "number": "466J",
+                        "text": "Radiologic Technology"
+                    },
+                    {
+                        "number": "466K",
+                        "text": "Real Estate Appraisers"
+                    },
+                    {
+                        "number": "467",
+                        "text": "Real Estate Brokers and Salespersons"
+                    },
+                    {
+                        "number": "467A",
+                        "text": "Rental Agencies--Repealed"
+                    },
+                    {
+                        "number": "467B",
+                        "text": "Solicitation of Funds from the Public"
+                    },
+                    {
+                        "number": "467D",
+                        "text": "Social Workers--Repealed"
+                    },
+                    {
+                        "number": "467E",
+                        "text": "Social Workers"
+                    },
+                    {
+                        "number": "468",
+                        "text": "Solicitors; Business of Taking Orders--Repealed"
+                    },
+                    {
+                        "number": "468B",
+                        "text": "Bonding of Solar Energy Device Dealers--Repealed"
+                    },
+                    {
+                        "number": "468E",
+                        "text": "Speech Pathologists and Audiologists"
+                    },
+                    {
+                        "number": "468J",
+                        "text": "Travel Agencies--Repealed"
+                    },
+                    {
+                        "number": "468K",
+                        "text": "Travel Agencies--Repealed"
+                    },
+                    {
+                        "number": "468L",
+                        "text": "Travel Agencies"
+                    },
+                    {
+                        "number": "468M",
+                        "text": "Activity Providers and Activity Desks"
+                    },
+                    {
+                        "number": "469",
+                        "text": "Undertakers, Embalmers, Funeral Directors"
+                    },
+                    {
+                        "number": "470",
+                        "text": "Vendors, Itinerant--Repealed"
+                    },
+                    {
+                        "number": "471",
+                        "text": "Veterinary Medicine"
+                    }
+                ],
+                "name": "TITLE 25. PROFESSIONS AND OCCUPATIONS"
+            },
+            {
+                "chapters": [
+                    {
+                        "number": "474",
+                        "text": "Business Action Center"
+                    }
+                ],
+                "name": "TITLE 25A. GENERAL BUSINESS PROVISIONS"
+            },
+            {
+                "chapters": [
+                    {
+                        "number": "476",
+                        "text": "Credit Sales"
+                    },
+                    {
+                        "number": "477",
+                        "text": "Disclosure of Finance Costs--Repealed"
+                    },
+                    {
+                        "number": "477E",
+                        "text": "Fair Credit Extension"
+                    },
+                    {
+                        "number": "478",
+                        "text": "Interest and Usury"
+                    },
+                    {
+                        "number": "479",
+                        "text": "Insurance Companies, Freedom of Choice of--Repealed"
+                    },
+                    {
+                        "number": "480",
+                        "text": "Monopolies; Restraint of Trade"
+                    },
+                    {
+                        "number": "480B",
+                        "text": "Media Publications Disclosure Act"
+                    },
+                    {
+                        "number": "480D",
+                        "text": "Collection Practices"
+                    },
+                    {
+                        "number": "480E",
+                        "text": "Mortgage Rescue Fraud Prevention Act"
+                    },
+                    {
+                        "number": "480F",
+                        "text": "Check Cashing"
+                    },
+                    {
+                        "number": "481",
+                        "text": "Fair Trade Regulations"
+                    },
+                    {
+                        "number": "481A",
+                        "text": "Uniform Deceptive Trade Practice Act"
+                    },
+                    {
+                        "number": "481B",
+                        "text": "Unfair and Deceptive Practices"
+                    },
+                    {
+                        "number": "481C",
+                        "text": "Door-to-Door Sale"
+                    },
+                    {
+                        "number": "481D",
+                        "text": "Going Out of Business Sales"
+                    },
+                    {
+                        "number": "481E",
+                        "text": "Uniform Athlete Agents Act"
+                    },
+                    {
+                        "number": "481F",
+                        "text": "Sale of Prints"
+                    },
+                    {
+                        "number": "481G",
+                        "text": "Office Machine Products Dealerships"
+                    },
+                    {
+                        "number": "481H",
+                        "text": "Water Treatment Units"
+                    },
+                    {
+                        "number": "481I",
+                        "text": "Motor Vehicle Express Warranty Enforcement (Lemon Law)"
+                    },
+                    {
+                        "number": "481J",
+                        "text": "Used Motor Vehicle Sales and Warranties"
+                    },
+                    {
+                        "number": "481K",
+                        "text": "Assistive Technology Warranty Act"
+                    },
+                    {
+                        "number": "481L",
+                        "text": "Motor Vehicle Lease Disclosure Act"
+                    },
+                    {
+                        "number": "481M",
+                        "text": "Lease-Purchase Agreements for Personal Property"
+                    },
+                    {
+                        "number": "481P",
+                        "text": "Telemarketing Fraud Prevention Act"
+                    },
+                    {
+                        "number": "481R",
+                        "text": "Vehicle Protection Product Warrantors"
+                    },
+                    {
+                        "number": "481X",
+                        "text": "Service Contracts"
+                    },
+                    {
+                        "number": "482",
+                        "text": "Trademarks, Service Marks, and Trade Names, Registration and Protection of"
+                    },
+                    {
+                        "number": "482B",
+                        "text": "Trade Secrets"
+                    },
+                    {
+                        "number": "482C",
+                        "text": "Copyrights in Sound Recordings"
+                    },
+                    {
+                        "number": "482D",
+                        "text": "Gold and Silver Stamping"
+                    },
+                    {
+                        "number": "482E",
+                        "text": "Franchise Investment Law"
+                    },
+                    {
+                        "number": "482P",
+                        "text": "Publicity Rights"
+                    },
+                    {
+                        "number": "483",
+                        "text": "Uniform Joint Obligations Act"
+                    },
+                    {
+                        "number": "484",
+                        "text": "Uniform Land Sales Practices Act"
+                    },
+                    {
+                        "number": "485",
+                        "text": "Uniform Securities Act (Modified)"
+                    },
+                    {
+                        "number": "485A",
+                        "text": "Uniform Securities Act"
+                    },
+                    {
+                        "number": "486",
+                        "text": "Measurement Standards"
+                    },
+                    {
+                        "number": "486A",
+                        "text": "Weight of Bread--Repealed"
+                    },
+                    {
+                        "number": "486B",
+                        "text": "Unfair Trade Practices by Petroleum Industry"
+                    },
+                    {
+                        "number": "486D",
+                        "text": "Petroleum Product Accounting Act--Repealed"
+                    },
+                    {
+                        "number": "486E",
+                        "text": "Fuel Distribution--Repealed"
+                    },
+                    {
+                        "number": "486H",
+                        "text": "Gasoline Dealers"
+                    },
+                    {
+                        "number": "486I",
+                        "text": "Petroleum Industry Information Reporting--Repealed"
+                    },
+                    {
+                        "number": "486J",
+                        "text": "Petroleum Industry Information Reporting Act"
+                    },
+                    {
+                        "number": "486K",
+                        "text": "Hotels"
+                    },
+                    {
+                        "number": "486M",
+                        "text": "Pawnbrokers and Secondhand Dealers"
+                    },
+                    {
+                        "number": "486N",
+                        "text": "Health Clubs"
+                    },
+                    {
+                        "number": "486P",
+                        "text": "Tobacco Products Reporting"
+                    },
+                    {
+                        "number": "487",
+                        "text": "Consumer Protection"
+                    },
+                    {
+                        "number": "487A",
+                        "text": "Language of Consumer Transactions"
+                    },
+                    {
+                        "number": "487D",
+                        "text": "Retail Merchant Club Cards"
+                    },
+                    {
+                        "number": "487J",
+                        "text": "Personal Information Protection"
+                    },
+                    {
+                        "number": "487N",
+                        "text": "Security Breach of Personal Information"
+                    },
+                    {
+                        "number": "487R",
+                        "text": "Destruction of Personal Information Records"
+                    },
+                    {
+                        "number": "488",
+                        "text": "Legal Service Plans"
+                    },
+                    {
+                        "number": "489",
+                        "text": "Discrimination in Public Accommodations"
+                    },
+                    {
+                        "number": "489D",
+                        "text": "Money Transmitters Act"
+                    },
+                    {
+                        "number": "489E",
+                        "text": "Uniform Electronic Transactions Act"
+                    },
+                    {
+                        "number": "489J",
+                        "text": "Miscellaneous Business Provisions"
+                    },
+                    {
+                        "number": "489M",
+                        "text": "International Trade Agreements"
+                    },
+                    {
+                        "number": "489N",
+                        "text": "International Matchmaking Organizations"
+                    },
+                    {
+                        "number": "489P",
+                        "text": "Consumer Credit Reporting Agencies"
+                    },
+                    {
+                        "number": "489X",
+                        "text": "Adult Products"
+                    }
+                ],
+                "name": "TITLE 26. TRADE REGULATION AND PRACTICE"
+            },
+            {
+                "chapters": [
+                    {
+                        "number": "490",
+                        "text": "Uniform Commercial Code"
+                    }
+                ],
+                "name": "TITLE 27. UNIFORM COMMERCIAL CODE"
+            }
+        ]
+    },
+    {
+        "name": "DIVISION 3. PROPERTY; FAMILY",
+        "titles": [
+            {
+                "chapters": [
+                    {
+                        "number": "501",
+                        "text": "Land Court Registration"
+                    },
+                    {
+                        "number": "502",
+                        "text": "Bureau of Conveyances; Recording"
+                    },
+                    {
+                        "number": "502C",
+                        "text": "Family Child Care Homes"
+                    },
+                    {
+                        "number": "503",
+                        "text": "Commissioners of Deeds--Repealed"
+                    },
+                    {
+                        "number": "503B",
+                        "text": "Time Share Commissioners of Deeds"
+                    },
+                    {
+                        "number": "504",
+                        "text": "Federal Judgment Registration"
+                    },
+                    {
+                        "number": "505",
+                        "text": "Uniform Federal Tax Lien Registration Act (Modified)"
+                    },
+                    {
+                        "number": "506",
+                        "text": "Mortgages of Real Property or Fixtures"
+                    },
+                    {
+                        "number": "507",
+                        "text": "Liens"
+                    },
+                    {
+                        "number": "507D",
+                        "text": "Nonconsensual Common Law Liens and Frivolous Financing Statements"
+                    },
+                    {
+                        "number": "508",
+                        "text": "Uniform Vendor and Purchaser Risk Act"
+                    },
+                    {
+                        "number": "508C",
+                        "text": "Uniform Environmental Covenants Act"
+                    },
+                    {
+                        "number": "508D",
+                        "text": "Mandatory Seller Disclosures in Real Estate Transactions"
+                    },
+                    {
+                        "number": "509",
+                        "text": "Conveyances to Two or More"
+                    },
+                    {
+                        "number": "510",
+                        "text": "Community Property"
+                    },
+                    {
+                        "number": "511",
+                        "text": "War Emergency Agency--Repealed"
+                    },
+                    {
+                        "number": "512",
+                        "text": "Release of Powers"
+                    },
+                    {
+                        "number": "513",
+                        "text": "Property Rights--Labor Organizations"
+                    },
+                    {
+                        "number": "514",
+                        "text": "Horizontal Property Regimes--Repealed"
+                    },
+                    {
+                        "number": "514A",
+                        "text": "Condominium Property Regimes"
+                    },
+                    {
+                        "number": "514B",
+                        "text": "Condominiums"
+                    },
+                    {
+                        "number": "514C",
+                        "text": "Lease to Fee Conversions for Condominiums and Cooperative Housing Corporations"
+                    },
+                    {
+                        "number": "514E",
+                        "text": "Time Sharing Plans"
+                    },
+                    {
+                        "number": "515",
+                        "text": "Discrimination in Real Property Transactions"
+                    },
+                    {
+                        "number": "516",
+                        "text": "Residential Leaseholds"
+                    },
+                    {
+                        "number": "516D",
+                        "text": "Residential Leasehold Condominiums and Cooperatives"
+                    },
+                    {
+                        "number": "517",
+                        "text": "Disposition of Trust Real Property"
+                    },
+                    {
+                        "number": "517D",
+                        "text": "Uniform Management of Institutional Funds Act--Repealed"
+                    },
+                    {
+                        "number": "517E",
+                        "text": "Uniform Prudent Management of Institutional Funds Act"
+                    },
+                    {
+                        "number": "518",
+                        "text": "Covenants in Leases"
+                    },
+                    {
+                        "number": "519",
+                        "text": "Real Property Leases"
+                    },
+                    {
+                        "number": "520",
+                        "text": "Landowners' Liability"
+                    },
+                    {
+                        "number": "520A",
+                        "text": "Landowner's Liability for Access to Control Invasive Species"
+                    },
+                    {
+                        "number": "521",
+                        "text": "Residential Landlord-Tenant Code"
+                    },
+                    {
+                        "number": "522",
+                        "text": "Uniform Disclaimer of Property Interests Act--Repealed"
+                    },
+                    {
+                        "number": "523",
+                        "text": "Revised Uniform Disposition of Unclaimed Property Act--Repealed"
+                    },
+                    {
+                        "number": "523A",
+                        "text": "Unclaimed Property"
+                    },
+                    {
+                        "number": "524",
+                        "text": "Facilities for Elders"
+                    },
+                    {
+                        "number": "525",
+                        "text": "Uniform Statutory Rule Against Perpetuities"
+                    },
+                    {
+                        "number": "526",
+                        "text": "Uniform Disclaimer of Property Interests Act"
+                    },
+                    {
+                        "number": "527",
+                        "text": "Uniform Real Property Transfer on Death Act"
+                    }
+                ],
+                "name": "TITLE 28. PROPERTY"
+            },
+            {
+                "chapters": [
+                    {
+                        "number": "531",
+                        "text": "Probate: Jurisdiction and Procedure"
+                    },
+                    {
+                        "number": "531B",
+                        "text": "Disposition of Remains"
+                    },
+                    {
+                        "number": "532",
+                        "text": "Descent of Property"
+                    },
+                    {
+                        "number": "533",
+                        "text": "Dower and Curtesy"
+                    },
+                    {
+                        "number": "534",
+                        "text": "Uniform Simultaneous Death Act--Repealed"
+                    },
+                    {
+                        "number": "534A",
+                        "text": "Uniform Simultaneous Death Act--Repealed"
+                    },
+                    {
+                        "number": "535",
+                        "text": "Specific Performance of Decedent's Contracts to Convey Real Estate"
+                    },
+                    {
+                        "number": "536",
+                        "text": "Wills--Repealed"
+                    },
+                    {
+                        "number": "537",
+                        "text": "Uniform Testamentary Additions to Trusts Act--Repealed"
+                    },
+                    {
+                        "number": "538",
+                        "text": "Disclaimers--Repealed"
+                    },
+                    {
+                        "number": "539",
+                        "text": "Uniform Transfer-on-Death (TOD) Security Registration Act"
+                    }
+                ],
+                "name": "TITLE 29. DECEDENTS' ESTATES"
+            },
+            {
+                "chapters": [
+                    {
+                        "number": "551",
+                        "text": "Guardians and Wards"
+                    },
+                    {
+                        "number": "551A",
+                        "text": "Office of the Public Guardian"
+                    },
+                    {
+                        "number": "551D",
+                        "text": "Uniform Durable Power of Attorney Act--Repealed"
+                    },
+                    {
+                        "number": "551E",
+                        "text": "Uniform Power of Attorney Act"
+                    },
+                    {
+                        "number": "551G",
+                        "text": "Uniform Adult Guardianship and Protective Proceedings Jurisdiction Act"
+                    },
+                    {
+                        "number": "552",
+                        "text": "Uniform Veteran's Guardianship Act--Repealed"
+                    },
+                    {
+                        "number": "553",
+                        "text": "Uniform Gifts to Minors Act--Repealed"
+                    },
+                    {
+                        "number": "553A",
+                        "text": "Uniform Transfers to Minors Act"
+                    },
+                    {
+                        "number": "554",
+                        "text": "Trusts and Trustees; Accounts"
+                    },
+                    {
+                        "number": "554A",
+                        "text": "Uniform Trustees' Powers Act"
+                    },
+                    {
+                        "number": "554B",
+                        "text": "Uniform Custodial Trust Act"
+                    },
+                    {
+                        "number": "554C",
+                        "text": "Uniform Prudent Investor Act"
+                    },
+                    {
+                        "number": "554G",
+                        "text": "Permitted Transfers in Trust"
+                    },
+                    {
+                        "number": "555",
+                        "text": "Employees Trust"
+                    },
+                    {
+                        "number": "556",
+                        "text": "Uniform Fiduciaries Act"
+                    },
+                    {
+                        "number": "557",
+                        "text": "Revised Uniform Principal and Income Act--Repealed"
+                    },
+                    {
+                        "number": "557A",
+                        "text": "Uniform Principal and Income Act"
+                    },
+                    {
+                        "number": "558",
+                        "text": "Land Trusts--Beneficiary Controlled"
+                    }
+                ],
+                "name": "TITLE 30. GUARDIANS AND TRUSTEES"
+            },
+            {
+                "chapters": [
+                    {
+                        "number": "560",
+                        "text": "Uniform Probate Code"
+                    }
+                ],
+                "name": "TITLE 30A. UNIFORM PROBATE CODE"
+            },
+            {
+                "chapters": [
+                    {
+                        "number": "571",
+                        "text": "Family Courts"
+                    },
+                    {
+                        "number": "571D",
+                        "text": "Juvenile Justice Interagency Board--Repealed"
+                    },
+                    {
+                        "number": "572",
+                        "text": "Marriage"
+                    },
+                    {
+                        "number": "572B",
+                        "text": "Civil Unions"
+                    },
+                    {
+                        "number": "572C",
+                        "text": "Reciprocal Beneficiaries"
+                    },
+                    {
+                        "number": "572D",
+                        "text": "Uniform Premarital Agreement Act"
+                    },
+                    {
+                        "number": "573",
+                        "text": "Married Women--Repealed"
+                    },
+                    {
+                        "number": "574",
+                        "text": "Names"
+                    },
+                    {
+                        "number": "575",
+                        "text": "Uniform Desertion and Nonsupport Act (Modified)"
+                    },
+                    {
+                        "number": "576",
+                        "text": "Uniform Reciprocal Enforcement of Support Act--Repealed"
+                    },
+                    {
+                        "number": "576B",
+                        "text": "Uniform Interstate Family Support Act"
+                    },
+                    {
+                        "number": "576D",
+                        "text": "Child Support Enforcement"
+                    },
+                    {
+                        "number": "576E",
+                        "text": "Administrative Process for Child Support Enforcement"
+                    },
+                    {
+                        "number": "577",
+                        "text": "Children"
+                    },
+                    {
+                        "number": "577A",
+                        "text": "Legal Capacity of Minor Regarding Medical Care"
+                    },
+                    {
+                        "number": "577D",
+                        "text": "Primary Medical Care for Minors Without Support"
+                    },
+                    {
+                        "number": "577E",
+                        "text": "Commission on Fatherhood"
+                    },
+                    {
+                        "number": "578",
+                        "text": "Adoption"
+                    },
+                    {
+                        "number": "579",
+                        "text": "Illegitimates: Paternity Proceedings--Repealed"
+                    },
+                    {
+                        "number": "580",
+                        "text": "Annulment, Divorce, and Separation"
+                    },
+                    {
+                        "number": "581",
+                        "text": "Office of Children and Youth--Repealed"
+                    },
+                    {
+                        "number": "582",
+                        "text": "Interstate Compact on Juveniles"
+                    },
+                    {
+                        "number": "582D",
+                        "text": "Interstate Compact for Juveniles"
+                    },
+                    {
+                        "number": "583",
+                        "text": "Uniform Child Custody Jurisdiction Act--Repealed"
+                    },
+                    {
+                        "number": "583A",
+                        "text": "Uniform Child-Custody Jurisdiction and Enforcement Act"
+                    },
+                    {
+                        "number": "584",
+                        "text": "Uniform Parentage Act"
+                    },
+                    {
+                        "number": "585",
+                        "text": "Ex Parte Temporary Restraining Orders--Repealed"
+                    },
+                    {
+                        "number": "586",
+                        "text": "Domestic Abuse Protective Orders"
+                    },
+                    {
+                        "number": "587",
+                        "text": "Child Protective Act--Repealed"
+                    },
+                    {
+                        "number": "587A",
+                        "text": "Child Protective Act"
+                    },
+                    {
+                        "number": "587D",
+                        "text": "Safe Place for Newborns"
+                    },
+                    {
+                        "number": "588",
+                        "text": "Children's Justice Program"
+                    }
+                ],
+                "name": "TITLE 31. FAMILY"
+            }
+        ]
+    },
+    {
+        "name": "DIVISION 4. COURTS AND JUDICIAL PROCEEDINGS",
+        "titles": [
+            {
+                "chapters": [
+                    {
+                        "number": "601",
+                        "text": "Courts Generally"
+                    },
+                    {
+                        "number": "602",
+                        "text": "Courts of Appeal"
+                    },
+                    {
+                        "number": "603",
+                        "text": "Circuit Courts"
+                    },
+                    {
+                        "number": "604",
+                        "text": "District Courts"
+                    },
+                    {
+                        "number": "604A",
+                        "text": "Environmental Courts"
+                    },
+                    {
+                        "number": "605",
+                        "text": "Attorneys"
+                    },
+                    {
+                        "number": "606",
+                        "text": "Clerks, Reporters, Interpreters, Etc."
+                    },
+                    {
+                        "number": "607",
+                        "text": "Costs and Fees"
+                    },
+                    {
+                        "number": "608",
+                        "text": "Expenses and Salaries"
+                    },
+                    {
+                        "number": "609",
+                        "text": "Jurors--Repealed"
+                    },
+                    {
+                        "number": "610",
+                        "text": "Retirement and Removal of Justices and Judges--Repealed"
+                    },
+                    {
+                        "number": "611",
+                        "text": "Counsel and Other Services for Indigent Defendants--Repealed"
+                    },
+                    {
+                        "number": "612",
+                        "text": "Jurors"
+                    },
+                    {
+                        "number": "613",
+                        "text": "Center for Alternative Dispute Resolution"
+                    }
+                ],
+                "name": "TITLE 32. COURTS AND COURT OFFICERS"
+            },
+            {
+                "chapters": [
+                    {
+                        "number": "621",
+                        "text": "Evidence and Witnesses, Generally"
+                    },
+                    {
+                        "number": "621C",
+                        "text": "Witness Immunity"
+                    },
+                    {
+                        "number": "622",
+                        "text": "Documentary Evidence"
+                    },
+                    {
+                        "number": "623",
+                        "text": "Uniform Judicial Notice of Foreign Laws--Repealed"
+                    },
+                    {
+                        "number": "624",
+                        "text": "Depositions and Discovery"
+                    },
+                    {
+                        "number": "624D",
+                        "text": "Uniform Interstate Depositions and Discovery Act"
+                    },
+                    {
+                        "number": "625",
+                        "text": "Notice to Admit, Inspection, and Discovery--Repealed"
+                    },
+                    {
+                        "number": "626",
+                        "text": "Hawaii Rules of Evidence"
+                    }
+                ],
+                "name": "TITLE 33. EVIDENCE"
+            },
+            {
+                "chapters": [
+                    {
+                        "number": "631",
+                        "text": "Agreed Facts, Submission on in Supreme Court--Repealed"
+                    },
+                    {
+                        "number": "632",
+                        "text": "Declaratory Judgments"
+                    },
+                    {
+                        "number": "633",
+                        "text": "Small Claims, District Courts"
+                    },
+                    {
+                        "number": "634",
+                        "text": "Civil Actions and Proceedings, Generally"
+                    },
+                    {
+                        "number": "634D",
+                        "text": "Service of Process--Repealed"
+                    },
+                    {
+                        "number": "634F",
+                        "text": "Citizen Participation in Government"
+                    },
+                    {
+                        "number": "634J",
+                        "text": "Vexatious Litigants"
+                    },
+                    {
+                        "number": "635",
+                        "text": "Trials"
+                    },
+                    {
+                        "number": "636",
+                        "text": "Judgment"
+                    },
+                    {
+                        "number": "636C",
+                        "text": "Uniform Enforcement of Foreign Judgments Act"
+                    },
+                    {
+                        "number": "637",
+                        "text": "Equity: Jurisdiction and Procedure--Repealed"
+                    }
+                ],
+                "name": "TITLE 34. PLEADINGS AND PROCEDURE"
+            },
+            {
+                "chapters": [
+                    {
+                        "number": "641",
+                        "text": "Appeals"
+                    },
+                    {
+                        "number": "642",
+                        "text": "Reserved Questions--Repealed"
+                    }
+                ],
+                "name": "TITLE 35. APPEAL AND ERROR"
+            },
+            {
+                "chapters": [
+                    {
+                        "number": "651",
+                        "text": "Attachment and Execution"
+                    },
+                    {
+                        "number": "651C",
+                        "text": "Uniform Fraudulent Transfer Act"
+                    },
+                    {
+                        "number": "652",
+                        "text": "Garnishment"
+                    },
+                    {
+                        "number": "653",
+                        "text": "Garnishment of Government Beneficiaries"
+                    },
+                    {
+                        "number": "654",
+                        "text": "Special Proceedings for Immediate Possession of Personal Property"
+                    },
+                    {
+                        "number": "655",
+                        "text": "Deposit and Delivery"
+                    },
+                    {
+                        "number": "656",
+                        "text": "Frauds, Statute of"
+                    },
+                    {
+                        "number": "657",
+                        "text": "Limitation of Actions"
+                    },
+                    {
+                        "number": "657D",
+                        "text": "Civil Relief for State Military Forces"
+                    },
+                    {
+                        "number": "658",
+                        "text": "Arbitration and Awards--Repealed"
+                    },
+                    {
+                        "number": "658A",
+                        "text": "Uniform Arbitration Act"
+                    },
+                    {
+                        "number": "658B",
+                        "text": "Uniform Foreign-Money Claims Act"
+                    },
+                    {
+                        "number": "658C",
+                        "text": "Uniform Foreign Money-Judgments Recognition Act --Repealed"
+                    },
+                    {
+                        "number": "658D",
+                        "text": "International Arbitration"
+                    },
+                    {
+                        "number": "658F",
+                        "text": "Uniform Foreign-Country Money Judgments Recognition Act"
+                    },
+                    {
+                        "number": "658G",
+                        "text": "Hawaii Uniform Collaborative Law Act"
+                    },
+                    {
+                        "number": "658H",
+                        "text": "Uniform Mediation Act"
+                    },
+                    {
+                        "number": "659",
+                        "text": "Quo Warranto"
+                    },
+                    {
+                        "number": "660",
+                        "text": "Habeas Corpus"
+                    },
+                    {
+                        "number": "661",
+                        "text": "Actions By and Against the State"
+                    },
+                    {
+                        "number": "662",
+                        "text": "State Tort Liability Act"
+                    },
+                    {
+                        "number": "662D",
+                        "text": "Volunteer Service; Immunity"
+                    },
+                    {
+                        "number": "662E",
+                        "text": "Claims Against Government Arising Out of Year 2000 Errors--Repealed"
+                    },
+                    {
+                        "number": "663",
+                        "text": "Tort Actions"
+                    },
+                    {
+                        "number": "663A",
+                        "text": "Civil Liability for Shoplifting"
+                    },
+                    {
+                        "number": "663B",
+                        "text": "Equine Activities"
+                    },
+                    {
+                        "number": "663D",
+                        "text": "Drug Dealer Liability--Repealed"
+                    },
+                    {
+                        "number": "663E",
+                        "text": "Drug Dealer Liability"
+                    },
+                    {
+                        "number": "663J",
+                        "text": "Liability for Coercion into Prostitution"
+                    },
+                    {
+                        "number": "663M",
+                        "text": "Year 2000 Errors in Computer-Based Systems--Repealed"
+                    },
+                    {
+                        "number": "664",
+                        "text": "Boundaries, Fences, Ways, Water Rights"
+                    },
+                    {
+                        "number": "665",
+                        "text": "Escheat"
+                    },
+                    {
+                        "number": "666",
+                        "text": "Landlord and Tenant"
+                    },
+                    {
+                        "number": "667",
+                        "text": "Foreclosures"
+                    },
+                    {
+                        "number": "668",
+                        "text": "Partition of Real Estate"
+                    },
+                    {
+                        "number": "669",
+                        "text": "Quieting Title"
+                    },
+                    {
+                        "number": "671",
+                        "text": "Medical Torts"
+                    },
+                    {
+                        "number": "671D",
+                        "text": "Health Care Peer Review"
+                    },
+                    {
+                        "number": "672",
+                        "text": "Design Professional Conciliation Panel--Repealed"
+                    },
+                    {
+                        "number": "672B",
+                        "text": "Design Claim Conciliation Panel"
+                    },
+                    {
+                        "number": "672E",
+                        "text": "Contractor Repair Act"
+                    },
+                    {
+                        "number": "673",
+                        "text": "Native Hawaiian Trusts Judicial Relief Act"
+                    },
+                    {
+                        "number": "674",
+                        "text": "Individual Claims Resolution Under the Hawaiian Home Lands Trust"
+                    },
+                    {
+                        "number": "675",
+                        "text": "Tobacco Liability Act"
+                    },
+                    {
+                        "number": "676",
+                        "text": "Structured Settlement Protection Act"
+                    }
+                ],
+                "name": "TITLE 36. CIVIL REMEDIES AND DEFENSES AND SPECIAL PROCEEDINGS"
+            }
+        ]
+    },
+    {
+        "name": "DIVISION 5. CRIMES AND CRIMINAL PROCEEDINGS",
+        "titles": [
+            {
+                "chapters": [
+                    {
+                        "number": "701",
+                        "text": "Preliminary Provisions"
+                    },
+                    {
+                        "number": "702",
+                        "text": "General Principles of Penal Liability"
+                    },
+                    {
+                        "number": "703",
+                        "text": "General Principles of Justification"
+                    },
+                    {
+                        "number": "704",
+                        "text": "Penal Responsibility and Fitness to Proceed"
+                    },
+                    {
+                        "number": "705",
+                        "text": "Inchoate Crimes"
+                    },
+                    {
+                        "number": "706",
+                        "text": "Disposition of Convicted Defendants"
+                    },
+                    {
+                        "number": "707",
+                        "text": "Offenses Against the Person"
+                    },
+                    {
+                        "number": "708",
+                        "text": "Offenses Against Property Rights"
+                    },
+                    {
+                        "number": "708A",
+                        "text": "Money Laundering"
+                    },
+                    {
+                        "number": "709",
+                        "text": "Offenses Against the Family and Against Incompetents"
+                    },
+                    {
+                        "number": "710",
+                        "text": "Offenses Against Public Administration"
+                    },
+                    {
+                        "number": "711",
+                        "text": "Offenses Against Public Order"
+                    },
+                    {
+                        "number": "712",
+                        "text": "Offenses Against Public Health and Morals"
+                    },
+                    {
+                        "number": "712A",
+                        "text": "Forfeiture"
+                    },
+                    {
+                        "number": "713",
+                        "text": "Repeal and Recodification Provisions"
+                    }
+                ],
+                "name": "TITLE 37. HAWAII PENAL CODE"
+            },
+            {
+                "chapters": [
+                    {
+                        "number": "801",
+                        "text": "Rights of Accused"
+                    },
+                    {
+                        "number": "801D",
+                        "text": "Rights of Victims and Witnesses in Criminal Proceedings"
+                    },
+                    {
+                        "number": "802",
+                        "text": "Counsel and Other Services for Indigent Criminal Defendants"
+                    },
+                    {
+                        "number": "802E",
+                        "text": "Court Advisement of Aliens Entering Guilty Plea"
+                    },
+                    {
+                        "number": "803",
+                        "text": "Arrests, Search Warrants"
+                    },
+                    {
+                        "number": "804",
+                        "text": "Bail; Bond to Keep the Peace"
+                    },
+                    {
+                        "number": "805",
+                        "text": "Criminal Procedure: District Courts"
+                    },
+                    {
+                        "number": "806",
+                        "text": "Criminal Procedure: Circuit Courts"
+                    },
+                    {
+                        "number": "806D",
+                        "text": "Criminal Process Records"
+                    },
+                    {
+                        "number": "831",
+                        "text": "Uniform Act on Status of Convicted Persons"
+                    },
+                    {
+                        "number": "832",
+                        "text": "Uniform Criminal Extradition Act"
+                    },
+                    {
+                        "number": "833",
+                        "text": "Uniform Rendition of Accused Persons Act"
+                    },
+                    {
+                        "number": "834",
+                        "text": "Agreement on Detainers"
+                    },
+                    {
+                        "number": "835",
+                        "text": "Securing Attendance of Witness by Material Witness Order"
+                    },
+                    {
+                        "number": "836",
+                        "text": "Uniform Act to Secure the Attendance of Witnesses from Without a State in Criminal Proceedings"
+                    },
+                    {
+                        "number": "841",
+                        "text": "Inquests, Coroners"
+                    },
+                    {
+                        "number": "842",
+                        "text": "Organized Crime"
+                    },
+                    {
+                        "number": "843",
+                        "text": "Hawaii Criminal Justice Commission--Repealed"
+                    },
+                    {
+                        "number": "844",
+                        "text": "State Law Enforcement Planning Agency--Repealed"
+                    },
+                    {
+                        "number": "844D",
+                        "text": "Forensic Identification"
+                    },
+                    {
+                        "number": "845",
+                        "text": "Career Criminals"
+                    },
+                    {
+                        "number": "846",
+                        "text": "Hawaii Criminal Justice Data Center; Civil Identification"
+                    },
+                    {
+                        "number": "846C",
+                        "text": "National Crime Prevention and Privacy Compact"
+                    },
+                    {
+                        "number": "846D",
+                        "text": "Juvenile Justice Information System"
+                    },
+                    {
+                        "number": "846E",
+                        "text": "Registration of Sex Offenders and Other Covered Offenders and Public Access to Registration Information"
+                    },
+                    {
+                        "number": "846F",
+                        "text": "Internet Crimes Against Children"
+                    },
+                    {
+                        "number": "851",
+                        "text": "Credit Card Offenses--Repealed"
+                    },
+                    {
+                        "number": "852",
+                        "text": "Obstruction of Ingress or Egress"
+                    },
+                    {
+                        "number": "853",
+                        "text": "Criminal Procedure: Deferred Acceptance of Guilty Plea, Nolo Contendere Plea"
+                    }
+                ],
+                "name": "TITLE 38. PROCEDURAL AND SUPPLEMENTARY PROVISIONS"
+            }
+        ]
+    }
+]

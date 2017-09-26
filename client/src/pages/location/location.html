@@ -1,0 +1,43 @@
+<ion-header>
+  <ion-navbar>
+      <ion-title>
+        Location
+      </ion-title>
+    <ion-buttons end>
+    <button style="background: transparent;" icon-only ion-button menuToggle>
+      <ion-icon style="color: white;" name="menu"></ion-icon>
+    </button>
+  </ion-buttons>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding id="page12">
+  <p style="text-align: center;" *ngIf="loadingSections"> loading</p>
+  <ion-list *ngIf="!loadingSections" id="section-list10">
+    <ion-grid>
+      <ion-col text-center *ngIf="isEmpty"> There are no reported statutes near you. </ion-col>
+      <ion-item  *ngFor="let sec of sections;let idx=index;" color="none" id="section-list-item26"
+                attr.id={{sec._id}} (tap)="openSection(sec.statute)">
+        <ion-row>
+          <ion-col style="font-size: 12px;" col-1>
+            {{sec.distance}} km
+          </ion-col>
+          <ion-col class="section_text" offset-2>
+            &#167;{{sec.statute.chapter}}-{{sec.statute.section}}&nbsp;{{sec.statute.section_text}}
+          </ion-col>
+          <ion-col col-1>
+            <ion-icon name="ios-bookmark-outline" *ngIf="!sec.bookmarked"></ion-icon>
+            <ion-icon name="ios-bookmark" style="color:#454545;" *ngIf="sec.bookmarked"></ion-icon>
+          </ion-col>
+        </ion-row>
+      </ion-item>
+
+    </ion-grid>
+  </ion-list>
+
+  <ion-infinite-scroll (ionInfinite)="loadMore($event)">
+    <ion-infinite-scroll-content>
+    </ion-infinite-scroll-content>
+  </ion-infinite-scroll>
+
+</ion-content>

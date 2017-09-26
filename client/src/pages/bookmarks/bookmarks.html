@@ -1,0 +1,26 @@
+<ion-header>
+  <ion-toolbar no-border-top text-center>
+    <ion-title > Bookmarks </ion-title>
+    <button  ion-button menuToggle right>
+      <ion-icon name="menu"></ion-icon>
+    </button>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content padding id="page">
+  <ion-list no-lines id="section-list">
+    <ion-grid>
+      <ion-item *ngFor="let sec of sections;let idx=index" color="none" id="section-list-item26" (tap)="openSection(sec,idx)">
+        <ion-row>
+          <ion-col col-11 class="section_text">
+            &#167;{{sec.chapter}}-{{sec.section}}&nbsp;{{sec.section_text}}
+          </ion-col>
+          <ion-col col-1>
+            <ion-icon name="ios-bookmark-outline" *ngIf="!sec.bookmarked"></ion-icon>
+            <ion-icon name="ios-bookmark" style="color:#454545;" *ngIf="sec.bookmarked"></ion-icon>
+          </ion-col>
+        </ion-row>
+      </ion-item>
+    </ion-grid>
+  </ion-list>
+</ion-content>

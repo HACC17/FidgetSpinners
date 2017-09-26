@@ -1,0 +1,23 @@
+version: 0.2
+
+phases:
+  install:
+    commands:
+      - echo Install started on 'date'
+      - npm install --prefix ./server
+  build:
+    commands:
+      - echo Install completed on 'date'
+      - echo Build started on 'date'
+      - ./server/node_modules/.bin/jasmine init
+      - npm test --prefix ./server
+  post_build:
+    commands:
+      - echo Build completed on 'date'
+      - zip -r server.zip ./server/*
+artifacts:
+  files:
+    - ./server.zip
+    - ./appspec.yml
+    - ./scripts/*
+  discard-paths: yes

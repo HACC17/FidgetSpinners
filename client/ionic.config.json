@@ -1,0 +1,8 @@
+{
+  "name": "hrs_mobile",
+  "app_id": "d01eb1e4",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}

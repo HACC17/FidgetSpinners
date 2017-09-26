@@ -1,0 +1,12 @@
+page-search {
+	ion-searchbar {
+
+		.searchbar-input {
+			border-bottom: thin solid color($colors-md, primary);
+		}
+
+		.searchbar-search-icon {
+			margin-left: -3%;	
+		}
+	}
+}

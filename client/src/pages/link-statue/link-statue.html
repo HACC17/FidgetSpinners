@@ -1,0 +1,33 @@
+<ion-header>
+  <ion-navbar>
+      <ion-title>
+        {{section.title_text}}
+      </ion-title>
+    <ion-buttons end>
+      <button style="background-color: transparent; float: left" icon-only ion-button (click)="shareStatue()">
+        <ion-icon name="share-alt" color="dark" style="color: #ffffff;"></ion-icon>
+      </button>
+    <button style="background: transparent;" icon-only ion-button menuToggle>
+      <ion-icon style="color: white;" name="menu"></ion-icon>
+    </button>
+  </ion-buttons>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding id="page">
+  <h5 id="statue-heading3" style="text-align:center;">
+    &#167;{{section.chapter}}-{{section.section}}&nbsp;{{section.section_text}}
+  </h5>
+  <div id="statue-markdown" class="show-list-numbers-and-dots">
+    <p *ngFor="let txt of section.allTexts" [innerHTML]="sanitize(txt)">
+    </p>
+  </div>
+</ion-content>
+<ion-footer>
+  <ion-toolbar id="bottom-toolbar">
+    <ion-title>
+      <ion-icon name="ios-bookmark-outline" color="dark" *ngIf="!section.bookmarked" (tap)="addToBookmark()"></ion-icon>
+      <ion-icon name="ios-bookmark" color="dark" style="color:#454545;" *ngIf="section.bookmarked" (tap)="removeFromBookmark()"></ion-icon>
+    </ion-title>
+  </ion-toolbar>
+</ion-footer>

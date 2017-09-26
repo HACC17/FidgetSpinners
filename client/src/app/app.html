@@ -1,0 +1,18 @@
+<ion-menu [content]="mainContent" persistent="true">
+    <ion-content id="side-menu" style="background-color:#6D3B47;">
+        <div class="spacer" style="height:30px;"></div>
+        <ion-item no-lines text-center style="background-color: rgba(255, 255, 255, 0);">
+            <img src='./assets/img/HawaiiSeal.png' height=150 width=150/>
+        </ion-item>
+        <div class="spacer" style="height:30px;"></div>
+        <ion-list no-lines id="menu-list">
+            <button menuClose ion-item *ngFor="let p of pages" [class.activeHighlight]="checkActive(p)"
+                    (click)="openPage(p)">
+                <ion-icon [name]="p.icon" item-left></ion-icon>
+                {{p.title}}
+            </button>
+        </ion-list>
+    </ion-content>
+</ion-menu>
+
+<ion-nav #mainContent [root]="rootPage" [class]="selectedTheme"></ion-nav>

@@ -1,0 +1,39 @@
+<ion-header>
+  <ion-navbar>
+      <ion-title>
+        Chapter {{chapter.number}}&nbsp;-&nbsp;{{chapter.text}}
+      </ion-title>
+    <ion-buttons end>
+    <button style="background: transparent;" icon-only ion-button menuToggle>
+      <ion-icon style="color: white;" name="menu"></ion-icon>
+    </button>
+  </ion-buttons>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding id="page">
+  <ion-list id="section-list">
+    <ion-row>
+      <ion-col text-center>
+        <h5 style="text-align: center; font-weight: normal;"> Sections </h5>
+      </ion-col>
+    </ion-row>
+    <ion-item *ngFor="let sec of sections;let idx=index" color="none" id="section-list-item26" (tap)="openSection(sec,idx)">
+      <ion-row>
+        <ion-col *ngIf="hasSections" col-11 class="section_text">
+          &#167;{{sec.chapter}}-{{sec.section}}&nbsp;{{sec.section_text}}
+        </ion-col>
+        <ion-col col-1>
+          <ion-icon name="ios-bookmark-outline" *ngIf="!sec.bookmarked"></ion-icon>
+          <ion-icon name="ios-bookmark" style="color:#454545;" *ngIf="sec.bookmarked"></ion-icon>
+        </ion-col>
+      </ion-row>
+    </ion-item>
+    <p *ngIf="!hasSections">
+      There are no corresponding sections because chapter {{chapter.number}} has been repealed.
+    </p>
+    <p *ngIf="loadingSections" style="text-align: center;">
+      Loading Sections...
+    </p>
+  </ion-list>
+</ion-content>

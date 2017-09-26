@@ -1,0 +1,25 @@
+<ion-header>
+  <ion-navbar>
+      <ion-title>
+        Browse
+      </ion-title>
+    <ion-buttons end>
+    <button style="background: transparent;" icon-only ion-button menuToggle>
+      <ion-icon style="color: white;" name="menu"></ion-icon>
+    </button>
+  </ion-buttons>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding id="page">
+  <ion-list id="division-list">
+    <ion-row>
+      <ion-col text-center>
+        <h5 style="text-align: center; font-weight: normal;"> Divisions </h5>
+      </ion-col>
+    </ion-row>
+    <ion-item *ngFor="let div of divisions" color="none" (tap)="openDivision(div)" id="division-list-item16">
+      {{div.name}}
+    </ion-item>
+  </ion-list>
+</ion-content>

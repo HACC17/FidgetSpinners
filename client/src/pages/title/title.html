@@ -1,0 +1,26 @@
+<ion-header>
+  <ion-navbar>
+      <ion-title>
+        {{division.name}}
+      </ion-title>
+    <ion-buttons end>
+    <button style="background: transparent;" icon-only ion-button menuToggle>
+      <ion-icon style="color: white;" name="menu"></ion-icon>
+    </button>
+  </ion-buttons>
+  </ion-navbar>
+</ion-header>
+
+
+<ion-content padding id="title">
+  <ion-list id="title-list">
+   <ion-row>
+      <ion-col text-center>
+        <h5 style="text-align: center; font-weight: normal;"> Titles </h5>
+      </ion-col>
+    </ion-row>
+    <ion-item *ngFor="let tle of division.titles" color="none" (tap)="openTitle(tle)" id="title-list-item19">
+      {{tle.name}}
+    </ion-item>
+  </ion-list>
+</ion-content>
